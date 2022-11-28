@@ -1,0 +1,1 @@
+export { default as CarouselItem} from './carousel-item';

@@ -1,0 +1,26 @@
+.carouselItem {
+    height: 90px;
+    width: 90px;
+    background: #F8F8F8;
+    border-radius: 18px;
+    padding: 15px;
+}
+
+.content {
+    position: relative;
+}
+
+.content img {
+    width: 100%;
+}
+
+.rank {
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    height: 24px;
+    width: 24px;
+    color: white;
+    border-radius: 4px;
+    background: linear-gradient(0deg, rgba(255,149,1,1) 0%, rgba(251,224,49,1) 100%);
+}
