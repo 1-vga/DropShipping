@@ -2,3 +2,17 @@
     padding: 0 8px;
     margin-bottom: 18px;
 }
+
+@media(min-width: 500px) {
+    .carousel {
+        padding: 0 12px;
+        margin-bottom: 24px;
+    }
+}
+
+@media(min-width: 850px) {
+    .carousel {
+        padding: 0 16px;
+        margin-bottom: 32px;
+    }
+}

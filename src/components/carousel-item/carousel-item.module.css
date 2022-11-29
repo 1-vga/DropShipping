@@ -24,3 +24,20 @@
     border-radius: 4px;
     background: linear-gradient(0deg, rgba(255,149,1,1) 0%, rgba(251,224,49,1) 100%);
 }
+
+@media(min-width: 500px) {
+    .carouselItem {
+        height: 100%;
+        width: 98%;
+    }
+    
+    .rank {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 3vw;
+        height: 27%;
+        width: 27%;
+       
+    }
+}

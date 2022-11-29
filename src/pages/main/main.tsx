@@ -9,8 +9,6 @@ interface Props {
 }
 
 const Main: React.FC<Props> = (props) => {
-
-
     return (
         <div className={styles.main}>
             <SectionOne />

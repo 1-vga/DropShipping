@@ -16,7 +16,7 @@ const Product: React.FC<Props> = (props) => {
             </div>
             <div className={styles.description}>
                 <div className={styles.descriptionTop}>
-                    <div><StarRating rating={3.5} /></div>
+                    <div className={styles.rating}><StarRating rating={3.5} /></div>
                     <div className={styles.review}>19</div>
                 </div>
                 <div className={styles.descriptionBottom}>

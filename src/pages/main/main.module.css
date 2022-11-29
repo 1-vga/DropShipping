@@ -5,3 +5,10 @@
     overflow: hidden;
     padding-top: 72px;
 }
+
+@media(min-width: 391px) {
+    .main {
+        max-width: 1024px;
+    }
+    
+}

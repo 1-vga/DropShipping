@@ -32,3 +32,28 @@
     gap: 2px;
     justify-content: center;
 }
+
+@media(min-width: 500px) {
+    .title, .title2 {
+        font-size: 32px;
+        margin-bottom: 32px;
+    }
+
+    .products {
+        gap: 4px;
+    }
+
+    .products {
+        margin-bottom: 32px;
+    }
+}
+
+@media(min-width: 850px) {
+    .products {
+        gap: 10px;
+    }
+
+    .products {
+        margin-bottom: 48px;
+    }
+}

@@ -156,5 +156,103 @@
 
 .descriptionText:not(:last-child) {
     margin-bottom: 16px;
+}
+
+@media(min-width: 500px) {
+    .productTitle {
+        max-width: 50%;
+    }
+
+    .keyword {
+        max-width: 150px;
+        font-size: 16px;
+    }
+
+    .reviewCount {
+        margin-right: 5px;
+    }
+
+    .productSpecifications {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-end;
+    }
+
+    .descriptionTop {
+        margin-bottom: 24px;
+    }
+
+    .buttonWrapper {
+        margin: 24px auto;
+    }
+
+    .descriptionText {
+        font-size: 16px;
+    }
     
+    .descriptionText:not(:last-child) {
+        margin-bottom: 24px;
+    }
+
+    .sectionOne {
+        margin-bottom: 32px;
+    }
+}
+
+@media(min-width: 850px) {
+    .productTitle {
+        max-width: 60%;
+    }
+    .keyword {
+        max-width: 250px;
+        font-size: 18px;
+        padding: 12px 8px;
+    }
+    .reviewCount {
+        margin-right: 10px;
+        font-size: 18px;
+    }
+
+    .productPrice {
+        font-size: 32px;
+        margin-right: 4px;
+        padding: 0 15px 0 7px;
+    }
+    
+    .currency, .priceDecimal {
+        font-size: 14px;
+    }
+
+    .productExclusionPrice {
+        font-size: 16px;
+    }
+
+    .starCount i {
+        font-size: 28px;
+    }
+
+    .descriptionTop {
+        margin-bottom: 32px;
+    }
+
+    .textContent {
+        padding: 16px 0 24px 0;
+    }
+
+    .buttonWrapper {
+        margin: 32px auto;
+    }
+
+    .descriptionText {
+        font-size: 18px;
+    }
+    
+    .descriptionText:not(:last-child) {
+        margin-bottom: 32px;
+    }
+
+    .sectionOne {
+        margin-bottom: 48px;
+    }
 }
