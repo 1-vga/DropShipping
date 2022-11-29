@@ -6,7 +6,7 @@ interface Props {
     rank: string
 }
 
-const CarouselItem: React.FC<Props> = ({rank}) => {
+const CarouselItem: React.FC<Props> = ({ rank }) => {
 
 
     return (

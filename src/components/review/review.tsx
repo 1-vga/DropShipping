@@ -3,10 +3,10 @@ import styles from './review.module.css';
 
 interface Props {
     text: string;
-    count: string | null; 
+    count: string | null;
 }
 
-const Review: React.FC<Props> = ({text, count}) => {
+const Review: React.FC<Props> = ({ text, count }) => {
 
 
     return (

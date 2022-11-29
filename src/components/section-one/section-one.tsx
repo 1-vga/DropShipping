@@ -2,13 +2,13 @@ import React from "react";
 import { Button } from "../button";
 import { Carousel } from "../carousel";
 import { Review } from "../review";
+import { StarRating } from "../star-rating";
 import styles from './section-one.module.css';
 
 interface Props {
 }
 
 const SectionOne: React.FC<Props> = (props) => {
-
     return (
         <section className={styles.sectionOne}>
             <div className={styles.productDisplay}>
@@ -26,7 +26,9 @@ const SectionOne: React.FC<Props> = (props) => {
                     </h1>
                     <div className={styles.productSpecifications}>
                         <div className={styles.ratingContainer}>
-                            <div className={styles.starCount}>*****</div>
+                            <div className={styles.starCount}>
+                                <StarRating rating={5} />
+                            </div>
                             <div className={styles.arrow}>&#8735;</div>
                             <div className={styles.reviewCount}>40,504</div>
                         </div>
