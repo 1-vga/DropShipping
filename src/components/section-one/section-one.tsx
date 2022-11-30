@@ -4,6 +4,7 @@ import { Carousel } from "../carousel";
 import { Review } from "../review";
 import { StarRating } from "../star-rating";
 import styles from './section-one.module.css';
+import classNames from "classnames";
 
 interface Props {
 }
@@ -51,14 +52,14 @@ const SectionOne: React.FC<Props> = (props) => {
             <Review
                 text="Took these camping and it got to 26 degrees at night.
                 These were a life saver for sure. Easy to use and
-                worked for hours"
+                worked for hours."
                 count="3/5"
             />
             <div className={styles.buttonWrapper}>
                 <Button />
             </div>
             <Carousel />
-            <ul className={styles.productDescription}>
+            <ul className={classNames('viewedElement', styles.productDescription)}>
                 <li className={styles.descriptionText}>
                     <strong>MULTIPURPOSE WARMERS</strong> -
                     Single use airactivated heat packs that provide everyday warmth

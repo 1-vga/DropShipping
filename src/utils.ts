@@ -6,17 +6,6 @@ export function toGeoJSON(data: any): FeatureCollection {
       type: "FeatureCollection",
       features: [],
     };
-
-    // {
-    //     "type": "Feature",
-    //     "geometry": {
-    //       "type": "Point",
-    //       "coordinates": [125.6, 10.1]
-    //     },
-    //     "properties": {
-    //       "name": "Dinagat Islands"
-    //     }
-    //   }
   
     data.map((elem: any) => {
       const feature: Feature = { // @ts-ignore
@@ -42,3 +31,35 @@ export function toGeoJSON(data: any): FeatureCollection {
   
     return nearbyVacancies;
   }
+
+export const makeBold = (strings: string, bold_index: any[]) => {
+    const sentences = strings.split(/(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s/gm);
+    
+    sentences.forEach((sentence, i) => {
+      const words = sentence.split(' ');
+      const sentenceBoldIndexes = bold_index[i];
+
+      if(sentenceBoldIndexes) {
+        words.splice(sentenceBoldIndexes[0], 0, '<strong>');
+        words.splice(sentenceBoldIndexes[1] + 2, 0, '</strong>');
+      }      
+      sentences[i] = words.join(' ');
+    })
+
+    return sentences.join(' ');
+}
+
+export default function isScrolledIntoView (el: Element, { offset = 0, full = false } = {}) {
+  const rect = el.getBoundingClientRect();
+  const elemTop = rect.top;
+  const elemBottom = rect.bottom;
+
+  if (full) {
+      // Only completely visible elements return true:
+      return (elemTop >= 0) && (elemBottom <= window.innerHeight);
+  } else {
+      // Partially visible elements return true:
+      return elemTop + offset < window.innerHeight && elemBottom >= 0;
+  }
+}
+
