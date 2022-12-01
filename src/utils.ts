@@ -41,7 +41,7 @@ export const makeBold = (strings: string, bold_index: any[]) => {
 
       if(sentenceBoldIndexes) {
         words.splice(sentenceBoldIndexes[0], 0, '<strong>');
-        words.splice(sentenceBoldIndexes[1] + 2, 0, '</strong>');
+        words.splice(sentenceBoldIndexes[1] + 1, 0, '</strong>');
       }      
       sentences[i] = words.join(' ');
     })
@@ -49,17 +49,10 @@ export const makeBold = (strings: string, bold_index: any[]) => {
     return sentences.join(' ');
 }
 
-export default function isScrolledIntoView (el: Element, { offset = 0, full = false } = {}) {
+export default function wasScrolled (el: Element, { offset = 0 } = {}) {
   const rect = el.getBoundingClientRect();
   const elemTop = rect.top;
-  const elemBottom = rect.bottom;
 
-  if (full) {
-      // Only completely visible elements return true:
-      return (elemTop >= 0) && (elemBottom <= window.innerHeight);
-  } else {
-      // Partially visible elements return true:
-      return elemTop + offset < window.innerHeight && elemBottom >= 0;
-  }
+  return elemTop + offset < window.innerHeight;
 }
 

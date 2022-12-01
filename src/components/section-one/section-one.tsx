@@ -59,7 +59,7 @@ const SectionOne: React.FC<Props> = (props) => {
                 <Button />
             </div>
             <Carousel />
-            <ul className={classNames('viewedElement', styles.productDescription)}>
+            <ul id='elementInView' className={styles.productDescription}>
                 <li className={styles.descriptionText}>
                     <strong>MULTIPURPOSE WARMERS</strong> -
                     Single use airactivated heat packs that provide everyday warmth

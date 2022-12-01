@@ -3,19 +3,19 @@ import './App.css';
 import { Main } from './pages/main';
 import { Footer } from './components/footer';
 import { Header } from './components/header';
-import isScrolledIntoView from './utils';
+import wasScrolled from './utils';
 
 function App() {
-  const [elementsInView, setElementsInView] = useState<boolean[]>([]);
+  const [elementInView, setElementInView] = useState(false);
 
   useEffect(() => {
-    const domElements = document.querySelectorAll('.viewedElement');
+    const domElement = document.getElementById('elementInView') as Element;
     const header = document.getElementById('header') as Element;
     const headerHeight = +window.getComputedStyle(header).height.split('px')[0];
 
     const handleScroll = () => {
-    const mapped = Array.from(domElements).map((element) => isScrolledIntoView(element, {offset: window.innerHeight - headerHeight}));
-      setElementsInView(mapped);
+    const isViewed = wasScrolled(domElement, {offset: window.innerHeight - headerHeight});
+      setElementInView(isViewed);
     };
 
     document.addEventListener('scroll', handleScroll);
@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header elementsInView={elementsInView} />
+      <Header elementInView={elementInView} />
       <Main />
       <Footer />
     </div>
