@@ -1,1302 +1,1473 @@
 export const review_data = [
     {
-        "hover_review_headline": "Five Stars",
-        "hover_review_body": "Thanks",
+        "hover_review_headline": "Good Deal",
+        "hover_review_body": "It was just what I was looking for. It's not a Bose but for the price it has a lot better sound then the ones I was looking at in Best Buy in its class. Small but mighty.  I use it in the kitchen and the basmentand in the yard.  Love it. Worth the $59 .",
         "hover_star_count": 5,
-        "x": 0.6526424288749695,
-        "y": -0.33641183376312256,
+        "x": -0.36595743894577026,
+        "y": -0.24895744025707245,
+        "z": 0.16074533760547638,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "sloppy-taupe-goat"
+        "hover_review_name": "woozy-seashell-hornet"
     },
     {
-        "hover_review_headline": "arrived broken - cheap plastic",
-        "hover_review_body": "item arrived broken, aside from the poor packing job done on the shipping box, this item is made from very thin cheap plastic, the swivel part was snapped off the stand part, after seeing this item I have chosen to go with a wood version",
-        "hover_star_count": 1,
-        "x": 0.26174917817115784,
-        "y": 0.0876976028084755,
-        "color": [
-            255,
-            0,
-            0
-        ],
-        "hover_review_name": "sickly-platinum-cuttlefish"
-    },
-    {
-        "hover_review_headline": "Great product, Great price!",
-        "hover_review_body": "I couldn't be happier with the cables I've purchased from Media Bridge!  Solid connections, thick insulation and all gold connections!",
+        "hover_review_headline": "Well Worth the Money",
+        "hover_review_body": "Everything good you have read about this radio is true. It has excellent audio, is sturdily built, and is very sensitive to AM signals, making it a good radio for MW DXing. My only quibbles with it are that the dial scale is really off (about 200 KHz) and it picks up local noise more than my other radios. I have taken to marking the dial scale with a small black marker to indicate true tuning, and I  turn off the TV set when I use this radio. I don't have to do that with my other radios.<br /><br />But all things considered, this is a very good looking radio that is well worth the price.",
         "hover_star_count": 5,
-        "x": -0.07355508208274841,
-        "y": 0.06474325805902481,
+        "x": -0.2127450555562973,
+        "y": -0.11527466028928757,
+        "z": 0.2792665362358093,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "lanky-cream-balinese"
-    },
-    {
-        "hover_review_headline": "NoProblemo",
-        "hover_review_body": "After testing different brands of headphones, finally I decided for the Bowers and Wilkins P5, great sound and very natural. No extra bass sound and good isolation.",
-        "hover_star_count": 5,
-        "x": -0.3294669985771179,
-        "y": -0.30239081382751465,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "queasy-khaki-mule"
-    },
-    {
-        "hover_review_headline": "Five Stars",
-        "hover_review_body": "Great products!",
-        "hover_star_count": 5,
-        "x": 0.6280786395072937,
-        "y": -0.3342057764530182,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "bumpy-white-tamarin"
-    },
-    {
-        "hover_review_headline": "Returned as I could not ...",
-        "hover_review_body": "get anyone to authenticate them as the real product and there are numerous variations out there which I later learned are all real !",
-        "hover_star_count": 5,
-        "x": 0.20315444469451904,
-        "y": -0.09614454954862595,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "pokey-charcoal-burmese"
-    },
-    {
-        "hover_review_headline": "Two Stars",
-        "hover_review_body": "to thick! smear's my laptop screen and my plasma tv screen. will go back to my old cleaner!!!",
-        "hover_star_count": 2,
-        "x": 0.36516329646110535,
-        "y": 0.10204622149467468,
-        "color": [
-            200,
-            0,
-            0
-        ],
-        "hover_review_name": "sleazy-copper-devil"
-    },
-    {
-        "hover_review_headline": "Boy was I Leary!!!",
-        "hover_review_body": "When my husband got this to mount our new 60&#34; flat screen on the wall, I just kept having visions of the tv on the floor!!  But this mount is amazing!!  It moves all over the place which makes cleaning it and the tv a snap; you can adjust your viewing area based on where people are sitting and it is built well to boot.  No danger of any thing ending up on the floor.",
-        "hover_star_count": 5,
-        "x": 0.10865794867277145,
-        "y": 0.24445798993110657,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "surly-champagne-gecko"
-    },
-    {
-        "hover_review_headline": "DON'T BUY.",
-        "hover_review_body": "This is terrible. The product is very cheap so you get what you pay for. Mine lasted less than two weeks before it started having issues and within the month it broke completely. The sellers wouldn't even talk to me. It is absolutely not worth it!",
-        "hover_star_count": 1,
-        "x": 0.25655174255371094,
-        "y": 0.16643394529819489,
-        "color": [
-            255,
-            0,
-            0
-        ],
-        "hover_review_name": "thirsty-thistle-crab"
-    },
-    {
-        "hover_review_headline": "Panny does it right !",
-        "hover_review_body": "This home theatre offers the new '\\\\\"bamboo\\\\\"' cones which seem to have made a vast improvement on speaker response for center channel (speech) ~ '\\\\\"viera link\\\\\"' compatability makes for quick ,smooth transition from audio/video mode ~ built-in delay between modes allows for audio compensation differences to avoid volume overload ~ Blu-ray/Netflix load in lightning speed ~ '\\\\\"one-touch\\\\\"' operational startup turns on tv ,home theatre audio ,to play (Panasonic's new ideas for living)      Purchased @ [...] for $265(+tx) delivered w/2 yr store wrrnty (best bang for buck) ~ preferred this unit w/o wireless capability b/c apartment complex has too much frequency interference from other sources (there's no substitute for 'hardwire' connections) ~ iPod/access + AUX 3.5mm input(mp3 ,audio)    Still looking for 'cons' re: BT 235 ,but not yet !    Would recommend this product to anyone as a no-brainer !!",
-        "hover_star_count": 5,
-        "x": -0.22309473156929016,
-        "y": 0.1886422038078308,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "stealthy-charcoal-tiger"
-    },
-    {
-        "hover_review_headline": "Great deal for the price",
-        "hover_review_body": "I'm not sure what people are expecting, but I feel these are a great deal, especially for the price. In noise-cancelling headphones, I'm looking to reduce repetitive ambient sounds (that's REDUCE, not eliminate). These have done a great job not only on my dishwasher, air conditioner, and local traffic, but even reduced other sounds, such as talking, at an unexpected rate.<br />No, these won't make things silent. Their purpose is to reduce noise, which they do, even when not plugged in to anything. They have a slight white-noise hiss when activated, which personally is relaxing, but I can see where others might find it annoying, particularly when listening to music.<br />If you're an audiophile, pass on these. If you'd just like to reduce ambient sounds, these might be good for you.",
-        "hover_star_count": 4,
-        "x": -0.37245050072669983,
-        "y": -0.2746630609035492,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "silly-xanthic-lionfish"
-    },
-    {
-        "hover_review_headline": "Very Nice Cable At A Very Nice Price!",
-        "hover_review_body": "This is excellent as a spare cable.  Not what I would call high-end, but, not what I would call cheap or low quality.  The cable itself is flat like a pasta noodle and the mini plugs are of a very good quality.  The price of this cable definitely makes it worth buying.  I use it with an iPod to connect to an external speaker or a pair of headphones.  Works great!  I'd recommend this cable, especially, for the price.",
-        "hover_star_count": 5,
-        "x": -0.2034776210784912,
-        "y": 0.018371526151895523,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "pokey-lemon-heron"
-    },
-    {
-        "hover_review_headline": "Had Some Problems",
-        "hover_review_body": "Good selector, however, I found that the volume controls really reduced the level of sound to my speakers and I had one channel that didn't work.  Maybe I just got a bad one, but I returned this item and went with the Monoproce 4 channel selector without the volume controls and it works great.",
-        "hover_star_count": 3,
-        "x": -0.19461898505687714,
-        "y": 0.13638967275619507,
-        "color": [
-            200,
-            200,
-            200
-        ],
-        "hover_review_name": "seedy-saffron-lionfish"
-    },
-    {
-        "hover_review_headline": "Excellent value",
-        "hover_review_body": "I have owned this receiver for almost 2 years and it is used Daily.  I bought this receiver for one reason ... It had a tape monitor function. I could not find another HT receiver with this.  My old speakers are very fussy and I really need a graphic EQ to adjust the sound to my liking.  It was also rather reasonbly priced. In daily use, and occacionsal abuse, this receiver sounds good to my ears, and i like it's looks. kind of a throw back to the 70s in some respects. It has plenty of inputs, and should serve you well.   Some of the complaints are valid, the remote looks like a throwback to the 80s .... and is a little flakey, but once you get used to the quirks it is not a big deal.  You can't change from digital to analog with the remote, and you can not turn tape monitor on and off with the remote.  People also complain about the surround speaker connectors, as they are guillotine connectors instead of 5 ways... personally I like the guillotine connectors better.  The manual could be better, but for $200 ... this is a great receiver. these are no longer made, but if you are looking to get one on ebay or something I hope you find my input usefull.",
-        "hover_star_count": 4,
-        "x": -0.2541508376598358,
-        "y": 0.25315144658088684,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "hilly-white-wasp"
-    },
-    {
-        "hover_review_headline": "perfect",
-        "hover_review_body": "perfect",
-        "hover_star_count": 5,
-        "x": 0.3365183174610138,
-        "y": -0.12805797159671783,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "greasy-salmon-retriever"
-    },
-    {
-        "hover_review_headline": "Love this product!!!",
-        "hover_review_body": "I love this case!!! It fits great in my bag & makes it easy to take anywhere. The front pocket holds my earplugs & cloth for my Kindle screen. I highly recommend this case!!!",
-        "hover_star_count": 5,
-        "x": 0.001761641469784081,
-        "y": -0.17499397695064545,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "homely-cerise-uguisu"
-    },
-    {
-        "hover_review_headline": "Bring all your HDMI devices together",
-        "hover_review_body": "I ran out of HDMI ports on my LCD TV (it only has 2) so I needed a way to have 4 total, as I had 4 devices that I wanted to run HDMI to get the full HD experience (Playstation 3, Xbox 360, HTPC, and HD Satellite). This little Kinivo switch doesn't take up much space but gives me the extra ports I need. The IR remote functionality let me program my universal remote so that I could control the Kinivo switch - along with the rest of my system - with one single remote controller. This is a nice product that has excellent quality and does a great job.",
-        "hover_star_count": 5,
-        "x": 0.18496355414390564,
-        "y": 0.358589231967926,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "woozy-firebrick-elephant"
-    },
-    {
-        "hover_review_headline": "Works awesome but..",
-        "hover_review_body": "I bought this antenna to replace an old rabbit ears setup in my camper. The rabbit ears worked great but took up too much space and looked old & junky. After researching several different models, I felt that either the Leaf or Amplified Leaf were the way to go, especially for my camper application.  I chose the Amplified Leaf because I figured an amplified signal would work better than a non-amplified one and also because I caught a great Amazon warehouse deal. In retrospect, I probably would have just went with the regular, non-amplified model. This is not to detract from the amplified Leaf in any way, it works awesome. It's just that I'm not sure it was worth the few extra bucks for use in my camper. Read some of the other reviews up here. Buying either the amplified or non-amplified version depends a lot on your location & application.<br /><br />The amplifier itself has to be plugged in to AC power, or can be plugged into a TV USB slot. This is a convenient feature for my camper because both AC plugs in the area where the TV is located are already being used. Plugging the amplifier directly into the TV's USB slot also allows me to save precious DC power when not using hook-ups. The amp only turns on when the TV turns on, perfect!<br /><br />In short, despite paying extra for the amplified leaf, I am extremely satisfied with the purchase. It works great, is easy to conceal, and takes up no space. I would definitely buy another If needed and highly recommend it to others.",
-        "hover_star_count": 5,
-        "x": -0.1472385823726654,
-        "y": 0.16838917136192322,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "cozy-puce-tuatara"
-    },
-    {
-        "hover_review_headline": "Amazing quality and price",
-        "hover_review_body": "What's not to like?  It's a durable feeling and nice looking cable.  Of course the picture and sound on my tv is perfect.  I plan to get a few more just to have around.  Don't waste a dime on Monster, it's a digital signal it either works perfect or it doesn't work at all.",
-        "hover_star_count": 5,
-        "x": -0.13459764420986176,
-        "y": 0.10443582385778427,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "scaly-copper-tamarin"
-    },
-    {
-        "hover_review_headline": "Great disks",
-        "hover_review_body": "Great disks had no problems and it gets the job done, and for a resonable price. If your looking for one of the best look no further.",
-        "hover_star_count": 5,
-        "x": 0.14321663975715637,
-        "y": 0.06774647533893585,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "messy-pear-bongo"
-    },
-    {
-        "hover_review_headline": "Not for me",
-        "hover_review_body": "Sound quality is good.<br />Fit is fine ... if you don't look up or move your head and bump/push the cord in the back connecting the two ear pieces. That piece is stiff and tends to move the ear pieces out of position.<br />Navigation buttons on the ear piece are difficult to locate, at least initially.",
-        "hover_star_count": 2,
-        "x": -0.39473578333854675,
-        "y": -0.24467886984348297,
-        "color": [
-            200,
-            0,
-            0
-        ],
-        "hover_review_name": "bumpy-ultramarine-wolverine"
-    },
-    {
-        "hover_review_headline": "Awesome sound.",
-        "hover_review_body": "The speaker has an awesome sound and for the price you just cant beat it. The volume level is very good with no distortion.",
-        "hover_star_count": 5,
-        "x": -0.28109243512153625,
-        "y": -0.13410983979701996,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "cloudy-russet-oyster"
-    },
-    {
-        "hover_review_headline": "2.1 amps - iPads, iPhones etc",
-        "hover_review_body": "With everyone in our household with their own personal iPhone and iPad, USB outlets are now a necessity around the house.<br />My shopping criteria for a USB outlet was simple:<br />1) USB Output 2.1 amps (adequate power for iPads)<br />2) UL listed for safety.<br />The XTG outlet fit those criteria perfectly.<br /><br />My only minor comments:<br />1)  The 110v outlets are tight fitting and require additional force plugging in/out (this has gotten better over time)<br />2)  The three 110v outlets are spaced fairly close together and does not have enough space to plug-in three iPad or iPhone chargers at the same time; you need to leave the center outlet open due to space limitations.<br />3)  Would like to see an XTG version with 4 USB outlets; each capable of 2.1 amps.",
-        "hover_star_count": 5,
-        "x": 0.03586379066109657,
-        "y": 0.0707334652543068,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "boozy-seashell-molly"
-    },
-    {
-        "hover_review_headline": "The Worst Receiver I've Ever Owned!",
-        "hover_review_body": "Don't believe the hype with this receiver.  First off, HDMI 1.3 in a receiver is useless at this point. If your HD-DVD player or Blu-Ray player does the decoding of DTS-HD Master Audio or Dolby True-HD then the receiver will receive the signal as uncompressed PCM.  The only reason this receiver has HDMI 1.3 is so that when High Definition players can send out the signal via bitstream the receiver will do the decoding and it will say Dolby True-HD or DTS-HD Master Audio.<br /><br />HDMI 1.3 is still in its infancy.  There are some problems.  First off, if you have an HD-A1 don't get this receiver.  The HDMI connection won't work because of incompatibility.<br /><br />Now to the biggest problem with this receiver.  There are countless AVS threads online that speak of HDMI problems with this receiver.  I'm here to tell you they're true.  Listening to any Uncompressed PCM track on a Blu-Ray movie produces an annoying humming noise, and many have even heard  popping noises from their speakers.<br /><br />Cnet may review this high, but listen to the customers who've actually used this receiver for more than a day.<br /><br />I used to have an Onkyo receiver and though that they were the best bang for your buck.  I guess times have changed.  I can't caution enough not to buy this product with out thoroughly researching what users have to say.",
-        "hover_star_count": 1,
-        "x": -0.09302115440368652,
-        "y": 0.2943651080131531,
-        "color": [
-            255,
-            0,
-            0
-        ],
-        "hover_review_name": "gimpy-amber-lizard"
-    },
-    {
-        "hover_review_headline": "Worked great at first and then..",
-        "hover_review_body": "Device suddenly stopped working after a few months and failed to power on.",
-        "hover_star_count": 1,
-        "x": 0.1575583815574646,
-        "y": 0.21418480575084686,
-        "color": [
-            255,
-            0,
-            0
-        ],
-        "hover_review_name": "sleepy-silver-fly"
-    },
-    {
-        "hover_review_headline": "this product on the Amazon was recommended by the Westinghouse support service tech",
-        "hover_review_body": "this remote was purchased to replace one that was lost....this product on the Amazon was recommended by the Westinghouse support service tech.....it works on the TV perfectly",
-        "hover_star_count": 5,
-        "x": 0.19922956824302673,
-        "y": 0.4675919711589813,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "scaly-viridian-hamster"
-    },
-    {
-        "hover_review_headline": "Creative is Cooler than Ipod",
-        "hover_review_body": "Why do people drool over the ipod.  It is a horrible design, IMO. :)    I have had my Zen since 2004 and it is still working just as nicely as the first day I bought it.  Back then it was only about $100 too :)    I keep the cover that came with it on it and listen to my music both actively as well as, sitting in one place.  It freezes once in a while, but I keep a needle stuck inside the case to hit the reset button with; very convenient!    I Love my Zen and would not even consider buying an overpriced, overly advertised iPod, as long as Creative makes such awesome MP3 players.  Unfortunately, Creative is designing some of their new MP3 players after the iPod.  I hope Creative keep making players in their own design also, for the customers who love it.    I can't believe I spent about $100 for this player and can sell it for about $100, 4 1/2 years later!  :)  But I wouldn't.",
-        "hover_star_count": 5,
-        "x": -0.1714349091053009,
-        "y": -0.035071585327386856,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "wheezy-cardinal-dormouse"
-    },
-    {
-        "hover_review_headline": "good lightweight and slim adapter.",
-        "hover_review_body": "Surprisingly small, flat and looks solid and well designed including reasonable price.<br />Long power cables , which is a big plus.<br />Blue light on top are not super bright ( another BIG plus) but clearly visible.<br />3 pin (with ground) power cord up to adapter. Comes with nice carry bag.<br />So only positive feelings from this purchase.",
-        "hover_star_count": 5,
-        "x": -0.021856650710105896,
-        "y": -0.020939838141202927,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "lanky-plum-goat"
-    },
-    {
-        "hover_review_headline": "Mediabridge - 3.5mm",
-        "hover_review_body": "Excellent product. Better than Monster I had. Which cost more and then broke. My PC,Phone and Ipad sound great using my amp and sub.",
-        "hover_star_count": 5,
-        "x": -0.22825197875499725,
-        "y": 0.0015347293810918927,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "scaly-green-woodpecker"
-    },
-    {
-        "hover_review_headline": "Great",
-        "hover_review_body": "I had to buy a shelf high enough to keep the kids from reaching the DVD player. It was very easy to install. It fit perfect under the TV. Just make sure when installing it that you leave room for the DVD player.",
-        "hover_star_count": 5,
-        "x": 0.031715866178274155,
-        "y": 0.20573019981384277,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "surly-tangerine-wolverine"
-    },
-    {
-        "hover_review_headline": "As advertised",
-        "hover_review_body": "Product worked as advertised.  Took less than 10 minutes to set up once I had all the model numbers of my AV components.  I bought this rather than the 890 because all my components are line-of-sight and I didn't plan to use the remote for my lighting which are the only diffs between the 880 and 890.      Downside is that remote cannot be programmed to control my Zone 2 for my Denon AVR-2807 because the control button on the Denon remote is a toggle, doesn't send out IR so I can't program the 880 to toggle back and forth between Zones.    Would recommend to anyone.",
-        "hover_star_count": 4,
-        "x": 0.1187925860285759,
-        "y": 0.3497830033302307,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "baggy-turquoise-reindeer"
+        "hover_review_name": "shaky-sepia-shrimp"
     },
     {
         "hover_review_headline": "Works Great",
-        "hover_review_body": "I built my own Windows 7 Media Center Edition machine and I use this remote every day to set my DVR, watch live TV and watch recorded shows. I love pausing live TV just like the DirecTV DVR that cost me $20 a month.",
+        "hover_review_body": "Haven't bought new batteries in over a year - these work great.",
         "hover_star_count": 5,
-        "x": 0.06647010147571564,
-        "y": 0.418332040309906,
+        "x": -0.0467306487262249,
+        "y": 0.16659632325172424,
+        "z": -0.39495551586151123,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "fuzzy-seashell-lemur"
+        "hover_review_name": "blurry-auburn-fox"
     },
     {
-        "hover_review_headline": "Junk - tilts incorrectly, wobbly, borderline unsafe",
-        "hover_review_body": "I purchased this TV mount for a 55\\\\\" 45 pound (without the stand) Samsung LED TV. Though this tilt wall mount appears to be well constructed, once you take the time to install and use the mount, flaws are apparent.<br /><br />There are 4 plastic bushings that control the tilting ability of the TV. My tilt came from Amazon loose at these 4 bushings. Once I had the TV on the wall it immediately tilted all the way down. Adjusting the TV, it immediately would dangerously swing back down. After taking the TV off the wall to investigate I found that these bushings were not tight. Further investigation it appears the wrong size plastic bushings are used paired with the bolts and lock-nuts that they pivot on. Because of this, there is excessive play in the adjustment of the TV stand's tiling. Essentially the 10 degrees of upward tilt is not possible because of this flaw. Also as a result, the TV will wobble when the wall/house shakes.<br /><br />Because of this loose issue with the tilt mechanism, I reversed the left and right attachments to the back of the TV so I can easily get to these lock nuts with a socket extension to tighten them without taking the TV off the wall.<br /><br />The advertised tilt angle is incorrect because of the tilt play/wobble, the TV will not hold itself at 10 degrees up. You can push and hold the TV at 10 degrees, but when it relaxes, you will be closer to 2-4 degrees max. The forward tilt is therefore better than 15 degrees, closer to 20 degrees.<br /><br />I am sure that if the cylinder shaped bushings provided a snug fit this TV mount would function as advertised.<br /><br />I stop just shy of saying this TV mount is unsafe. It does hold the TV and even when the bushings that hold the tilt angle fail I cannot foresee the TV falling from the wall.<br /><br />Installing a wall mount is a real pain, you have to find studs in your walls, drill the mounting holes, etc... I do not want to go through that again with a different TV mount. My recommendation is spend money on a wall mount that has good reviews and/or that you've physically seen and confirmed that it is well constructed and pivots as needed. Don't cheap out and get this unit.",
-        "hover_star_count": 1,
-        "x": 0.20173828303813934,
-        "y": 0.14655761420726776,
-        "color": [
-            255,
-            0,
-            0
-        ],
-        "hover_review_name": "gloppy-ochre-corgi"
-    },
-    {
-        "hover_review_headline": "works well easy to set up",
-        "hover_review_body": "happy customer except 6am wake up for work one two three four five six seven eight nine ten eleven twelve",
+        "hover_review_headline": "good news and bad news",
+        "hover_review_body": "The arm broke when I was putting it around my neck, and then it fell off my neck and it was lost someplace!  I had been at the rec. center and nobody turned it in, so now I have to wait to get another one!  The wait time to have it delivered after I purchased it, was a very long time!  The player itself is pretty cool and there is a lot of space for lots of music to download, it is great for being waterproof, and it has good sound.",
         "hover_star_count": 4,
-        "x": 0.2140049934387207,
-        "y": 0.12781235575675964,
+        "x": -0.27427634596824646,
+        "y": -0.062733955681324,
+        "z": -0.18008214235305786,
         "color": [
             0,
             200,
             0
         ],
-        "hover_review_name": "foggy-asparagus-stoat"
+        "hover_review_name": "gimpy-yellow-wallaby"
     },
     {
-        "hover_review_headline": "Nothing great about it",
-        "hover_review_body": "I bought the beats earphone as I had heard a lot about the beats audio and many phones and laptops shipping with its branding.<br />Firstly it arrived late and it was a disappointment as its sound quality seemed similar to my sennheiser earphones which is much cheaper. I don't think the earphones are worth $150.<br /><br />I wish I had gone with buying the bose earphones :(",
+        "hover_review_headline": "CyberPower CSHT706TC",
+        "hover_review_body": "An excellent value for a surge suppressor.  The coax connection is used with a cable modem.  I ran a speed test before and after this was installed.  There was no loss in download or upload speed after this was installed.",
+        "hover_star_count": 5,
+        "x": -0.09108273684978485,
+        "y": 0.13958832621574402,
+        "z": 0.19630132615566254,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "scanty-amethyst-cattle"
+    },
+    {
+        "hover_review_headline": "Smartest travel adapter on the market",
+        "hover_review_body": "I like the fact that this adapter has a built-in fan that makes this usable for an extended period of time. I have other adapters, but they get hot fast. I am currently using it in Europe, I have my laptop plugged in, and I am charging my Android tablet and two other Android phones, one on a USB cable, one on a plugged in wireless charger. I would really recommend this one to anybody who wants to travel. It is small, easy to carry around and it provides multiple charging avenues.",
+        "hover_star_count": 5,
+        "x": 0.03233743831515312,
+        "y": 0.16855788230895996,
+        "z": -0.10817813128232956,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "craggy-black-sheep"
+    },
+    {
+        "hover_review_headline": "Very clean . . . no coloration . . .",
+        "hover_review_body": "Using this in our loft with Polk in-wall speakers  . . .  did not need a receiver as the only thing hooked up is a Logitech music streamer . . . still have 7 of the Slim devices/Logitech streamers . . . they just keep plugging along . . . wanted a smaller profile and a decent amount of power . . . this fulfilled both . . . it is very clean, have the controls flat . . . must say even my wife could tell the difference from what we used to have there . . .",
+        "hover_star_count": 5,
+        "x": -0.09905368834733963,
+        "y": -0.0959201529622078,
+        "z": 0.24721594154834747,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "woozy-razzmatazz-newfoundland"
+    },
+    {
+        "hover_review_headline": "Great unit but misses the mark!",
+        "hover_review_body": "The Uniden HomePatrol scanner is the easiest scanner to use that I've owned. You can update its database with ease and it makes scanning fun. I'm even thinking of selling my other scanners and getting one more of these because it's so easy to use and setup. So, why am I only giving it a three out of five? Even though I bought it for a great price and I love this scanner, the retail on this thing is over $500. You can buy an iPhone and get yourself a scanner App and be able to do a lot more. You also have to pay another $99 to access the \\\\\"Extreme\\\\\" features of this unit. For $500 Uniden should have included these features with it. The fact that you have to pay extra is an insult. The unit does however come with the following:  - 4 x AA size Rechargeable NiMH Batteries (2300mAh)  - AC Adapter (AC 120V 60Hz 9V 800mA Regulated)  - DC Adapter (DC 12V to DC 9V 800mA Regulated)  - 2 GB micro SD for storing favorites lists and recording transmissions  - Antenna  - Desk Stand  - USB Cable  Fairly generous compared to what I received with my RadioShack Pro96 scanner. Again, for $500 I would have also included the following:  - GPS Cable  - Mobile mount  - Protective case  By biggest gripe is this unit seems cheaply made and if I dropped it I think that would be it. It should have been made more rugged for $500 otherwise it is a fantastic unit.",
+        "hover_star_count": 3,
+        "x": -0.03942198306322098,
+        "y": 0.1566474288702011,
+        "z": 0.1349877566099167,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "hover_review_name": "snippy-chocolate-tamarin"
+    },
+    {
+        "hover_review_headline": "PA 730 Articulating wall mount",
+        "hover_review_body": "Excellent product.  We bought this to mount a 22\\\\\" flat screen in our excercise room, needed something that would swing easily to position the tv in front of two pieces of equipment.  Works great.  Very sturdy, super simple to mount on wall, and to attach tv. Articulates and angles tv for optimal viewing at any angle.  I loosened the bolts in the arms very slightly to make positioning the tv easier, unit is very robust.  Slots in arms allow attachment of cables for a clean look as well.  I would reccomend this unit to everyone.",
+        "hover_star_count": 5,
+        "x": 0.06713221967220306,
+        "y": 0.1950663924217224,
+        "z": 0.3438965082168579,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "paltry-ochre-tortoise"
+    },
+    {
+        "hover_review_headline": "Good Looking but thats it...",
+        "hover_review_body": "Took a chance on these, they look good but are very uncomfortable and had to return, the sound was ok,<br />but very heavy on head and awful around the ears",
         "hover_star_count": 2,
-        "x": -0.33753520250320435,
-        "y": -0.20948420464992523,
+        "x": -0.21246112883090973,
+        "y": -0.3844549059867859,
+        "z": -0.23320403695106506,
         "color": [
             200,
             0,
             0
         ],
-        "hover_review_name": "seedy-taupe-mandrill"
+        "hover_review_name": "surly-puce-zonkey"
     },
     {
-        "hover_review_headline": "DO NOT BUY",
-        "hover_review_body": "Very cheap lasted for less than a month, poorly made plastic left side blew out quick.",
+        "hover_review_headline": "Good and cheap",
+        "hover_review_body": "I like these headphones, I have gotten two of them.  One for work and and one for home.  For work the batteries are great even when used for the whole day.  They completely block out everything else in the office no matter how loud it gets or angry my boss becomes.  At home it is great to walk around listening to music or playing games at night so my kids are not woken up.  I like grilling outside while listening to music with no issues, that and they keep my ears warm.  At 900 mhz they don't interfere with the wireless router I have set up but they do pick up my phones some times because they are also 900 mhz.  But is fixed by just pressing the button on the side to scan for the right channel.  Currently my wife has the pair for at home because I needed a wireless headset with a mic at home.",
+        "hover_star_count": 5,
+        "x": -0.2511989176273346,
+        "y": -0.12061768025159836,
+        "z": -0.09089034795761108,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "sloppy-coral-gopher"
+    },
+    {
+        "hover_review_headline": "great way to organize those cords",
+        "hover_review_body": "this little item works just as described and I really enjoy not having those cords in the way, these were for me and gifts and the folks who got one loved them too. I loved them so much when some came up on sale after christmas I bought more.",
+        "hover_star_count": 5,
+        "x": 0.05061831325292587,
+        "y": 0.1574837863445282,
+        "z": -0.14626486599445343,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "paltry-rose-liger"
+    },
+    {
+        "hover_review_headline": "small, compact, just what I was looking for",
+        "hover_review_body": "This radio fits perfectly in any spot. I keep it on my bathroom shelf. It can't be knocked down & is not in the way of anything. Sometimes I bring it in another room while I'm on my treadmill & in the summer it will come with me on the front & back porch. It fits in my bag & keeps me company while working outdoors sweeping leaves or shoveling snow. I also bought another one for work!",
+        "hover_star_count": 5,
+        "x": -0.18055205047130585,
+        "y": -0.11831999570131302,
+        "z": 0.14383487403392792,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "frumpy-silver-dunker"
+    },
+    {
+        "hover_review_headline": "So-So product",
+        "hover_review_body": "I'd say a half a dozen of these discs were rejected by my SuperDrive on MacAirBook Pro.  Was not able to use them",
+        "hover_star_count": 3,
+        "x": 0.03433826565742493,
+        "y": 0.158260315656662,
+        "z": -0.3016522228717804,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "hover_review_name": "lumpy-amber-saola"
+    },
+    {
+        "hover_review_headline": "Polk Audio Subwoofer",
+        "hover_review_body": "This is a great subwoofer, I only wish I had gotten it sooner.  I didn't realise how much better the system sounds now.<br /><br />Thanks!!",
+        "hover_star_count": 5,
+        "x": -0.18771448731422424,
+        "y": -0.10068841278553009,
+        "z": 0.3631470203399658,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "hasty-tomato-wolf"
+    },
+    {
+        "hover_review_headline": "One Star",
+        "hover_review_body": "A waste of time and money.  Don't bother.  We tried it in two different cities and did not work.",
         "hover_star_count": 1,
-        "x": 0.2221681922674179,
-        "y": 0.0796857550740242,
+        "x": 0.6177321672439575,
+        "y": 0.025828853249549866,
+        "z": 0.12773635983467102,
         "color": [
             255,
             0,
             0
         ],
-        "hover_review_name": "gummy-gamboge-bombay"
+        "hover_review_name": "blurry-khaki-toucan"
     },
     {
         "hover_review_headline": "Five Stars",
-        "hover_review_body": "These are awesome!",
+        "hover_review_body": "I Loveee It !!",
         "hover_star_count": 5,
-        "x": 0.5880502462387085,
-        "y": -0.4899226129055023,
+        "x": 0.5457294583320618,
+        "y": -0.1364894062280655,
+        "z": -0.011838837526738644,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "whiny-mauve-urchin"
+        "hover_review_name": "fuzzy-rose-mongrel"
     },
     {
-        "hover_review_headline": "It sucks ass. like not even the acceptable but like the non hygienical ass of the sucking",
-        "hover_review_body": "Doesn't work at all, it should go die in a whole. But seriously the shell doesn't fit but keys do and my friend broke her mother board switching the shells 😢😢😢😢😢😢",
+        "hover_review_headline": "Over 75 Home User",
+        "hover_review_body": "I use DirectV because I love baseball from the Red Sox.  I have my satellite receiver run thru the amplifier and the quality is greatly improved over my previous amp/rcvr.  I did purchase a Polk center channel to compliment my ancient set-up.  My Bose speakers are 25 years old but still produce wonderful sound.  There are two super improvements to my previous set-up.  The surround sound both from satellite and from my dvd player are greatly enhanced.  The AM/FM section of the Onkyo TX-SR308 has improved both station pick-up and sound dramatically.  I am using all the same components with this amp as before with only the center speaker added. If you are looking for a fine amp/rcvr for a moderate price, the TX-SR308 needs serious considerarion.    I have had this unit for about five weeks so I do not have any long term experience on realibility.  However, the unit normally runs for about six hours or more a day.",
+        "hover_star_count": 5,
+        "x": -0.22715812921524048,
+        "y": -0.08596368879079819,
+        "z": 0.5186347961425781,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "lanky-jade-whippet"
+    },
+    {
+        "hover_review_headline": ":-)",
+        "hover_review_body": "Good price!",
+        "hover_star_count": 5,
+        "x": 0.04505418613553047,
+        "y": -0.0015229099662974477,
+        "z": -0.14032521843910217,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "dorky-burgundy-greyhound"
+    },
+    {
+        "hover_review_headline": "overpriced and poorly constructed, poor support",
+        "hover_review_body": "I have had this product since 2007.  I paid $1500.00 which included programming.<br />Pros:<br />when it works, it works fine which was rare after 2.5 years of use<br /><br />Cons:<br />buttons failed after 2.5 years of use, neither URC nor their dealers provided support for a defective product<br />batteries are changed quarterly.<br />technician cost for reprogramming every time a new component was added or deleted.<br /><br />Do not buy this product.  There are better products from Savant or Control4 now, while I cannot speak for Logitech, I have seen some good reviews.",
         "hover_star_count": 1,
-        "x": 0.01921137049794197,
-        "y": 0.054977480322122574,
+        "x": -0.13724930584430695,
+        "y": 0.24546365439891815,
+        "z": 0.009866728447377682,
         "color": [
             255,
             0,
             0
         ],
-        "hover_review_name": "scaly-apricot-fowl"
+        "hover_review_name": "woozy-bronze-fousek"
     },
     {
-        "hover_review_headline": "Great item for home computers",
-        "hover_review_body": "I really needed an UPS for my home computer due to the poor quality of power service provided by my supplier. I have found this item to be extremely helpful in keeping my computer up and running during short periods of power outage. It also had the desired feature of automatically shutting my computer down if the power failure lasted for any length of time. I have experienced no problems with the product and it was easy to install directly out of the box. A wonderful product that I would suggest to others who are looking for UPS protection.",
-        "hover_star_count": 5,
-        "x": 0.10423421114683151,
-        "y": 0.18322411179542542,
+        "hover_review_headline": "Lamp didnt work properly- broken item",
+        "hover_review_body": "After installing the new lamp in the projector, it didnt work properly. Item shipped has a defect so I'm working to have it replaced/refunded.",
+        "hover_star_count": 1,
+        "x": 0.07891552895307541,
+        "y": 0.4359479248523712,
+        "z": -0.0980960801243782,
         "color": [
-            0,
             255,
+            0,
             0
         ],
-        "hover_review_name": "geeky-ruby-rhinoceros"
+        "hover_review_name": "wimpy-cornflower-pinscher"
     },
     {
-        "hover_review_headline": "Good",
-        "hover_review_body": "I purchased a refurbished unit.  No signs it was ever used.  Works well but does distort when volume is about 3/4.  Mine was also missing the remote on delivery.",
+        "hover_review_headline": "Good.  But...",
+        "hover_review_body": "Good Product. Bright green light is unnecessary and can be a nuisance at night.",
         "hover_star_count": 4,
-        "x": 0.0038210798520594835,
-        "y": 0.2580948770046234,
+        "x": 0.09790381044149399,
+        "y": 0.06500685214996338,
+        "z": -0.12036267668008804,
         "color": [
             0,
             200,
             0
         ],
-        "hover_review_name": "cloudy-silver-earwig"
+        "hover_review_name": "cranky-malachite-beetle"
     },
     {
         "hover_review_headline": "Five Stars",
-        "hover_review_body": "Great cable",
+        "hover_review_body": "good to use",
         "hover_star_count": 5,
-        "x": 0.47953736782073975,
-        "y": -0.08155526220798492,
+        "x": 0.6862002015113831,
+        "y": -0.2514737546443939,
+        "z": 0.08167468756437302,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "stinky-flax-jellyfish"
+        "hover_review_name": "lumpy-amaranth-hare"
     },
     {
-        "hover_review_headline": "one big flaw",
-        "hover_review_body": "This one COULD have been a great product:<br />it's very thin, nice 16GB storage, sound is very good, both device + included ear buds.<br /><br />BUT:<br />- Astonishingly, Sony DIDN'T BOTHER caring about character support for other languages, which is unheard of! it's 2013! English is NOT the only language on the planet! (I have tons of songs with Hebrew names, which now appear as just rows of meaningless rectangles instead of names!) this is something that EVERY music player I owned supported out of the box for the past 7 years.<br />that alone renders the product half useless for me, as well as everyone with non-English meta data.<br />-  The seek/skip is fixed in speed, so if you use audio books, or just long tracks, you have to keep the Forward button pressed for a very very long time to get where you wanted.<br /><br />This is really too bad that a great hardware is compromised with less than adequate software.<br />Hopefully they will address this issues with a firmware update (but from support forums, doesn't seem they care much).<br /><br />too bad.",
+        "hover_review_headline": "Works Great",
+        "hover_review_body": "Easy to use, works as expected.  Not much more to say.  Filling up space now so the word count of this stupid review page lets me out of here.",
+        "hover_star_count": 5,
+        "x": 0.052949294447898865,
+        "y": 0.20845934748649597,
+        "z": -0.16718298196792603,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "sleepy-sepia-fousek"
+    },
+    {
+        "hover_review_headline": "Worth buying them online",
+        "hover_review_body": "Our TV went off and we thought we were going to pay too much money but we looked it up and found the exact one on Amazon my dad installed it and the TV is like new. Don't  waste your money paying others to install it they will charge you $100.",
+        "hover_star_count": 5,
+        "x": -0.08239249885082245,
+        "y": 0.17622680962085724,
+        "z": 0.16157987713813782,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "goopy-copper-spoonbill"
+    },
+    {
+        "hover_review_headline": "But what I enjoy as much as the sound is the NFC function ...",
+        "hover_review_body": "Wow thumbs up cant believe the level of the high volume with the crispy of the total sound. The sub woofer made the total package though for the compact size it is.  But what I enjoy as much as the sound is the NFC function it is very cool, no more going through phone to connect through WIFI. NFC allows you to basically place your phone over the speaker and it connects its self automatically and the same to disconnect. Overall the Elite has better sound, battery life, and  lighter than other products in its field.",
+        "hover_star_count": 5,
+        "x": -0.16369883716106415,
+        "y": -0.2992796301841736,
+        "z": 0.1500501036643982,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "squeaky-cinnabar-moose"
+    },
+    {
+        "hover_review_headline": "Five Stars",
+        "hover_review_body": "excelente",
+        "hover_star_count": 5,
+        "x": 0.5879018306732178,
+        "y": -0.15529245138168335,
+        "z": 0.010453865863382816,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "randy-buff-dragon"
+    },
+    {
+        "hover_review_headline": "A little big, but other than that, a GREAT buy",
+        "hover_review_body": "It is a little big, but it's worht it when you experience all that it has to offer.  It works great, never stalls or freezes.  I REALLY love my Creative NOMAD Jukebox Zen Xtra 40 GB MP3 Player!!!",
+        "hover_star_count": 4,
+        "x": -0.1976996511220932,
+        "y": -0.04970651492476463,
+        "z": -0.1448734849691391,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "cheeky-lime-tamarin"
+    },
+    {
+        "hover_review_headline": "Perfect for school!",
+        "hover_review_body": "It does exactly what it advertised to.  :-)",
+        "hover_star_count": 5,
+        "x": 0.044516973197460175,
+        "y": 0.11606734246015549,
+        "z": -0.16323751211166382,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "stealthy-chestnut-coyote"
+    },
+    {
+        "hover_review_headline": "Kidproof",
+        "hover_review_body": "We have our 6 year old granddaughter living with us, so when Grace Digital offered a complimentary sample for us to test, we decided to put it through its paces.<br /><br />Since this was a review sent for a test sample, I actually had our granddaughter not only play with it, but also toss it into our pond. Three times. Two out of the three times, it actually continued playing, the third time, it broke the bluetooth connection, but continued playing once it reconnected.<br /><br />The connections for the outlet and auxiliary ports are covered behind a plug that makes that area waterproof. It is recommended that you dry it off before opening that port, since water is a big deal when it comes to electronics. Also, if you don't get the plug closed correctly, water can come into that area. I would not hesitate to use it around pools and other water supply areas.<br /><br />It is virtually indestructible, and I don't have any issues with my granddaughter using it outside, in fact it makes a great addition to the videos she enjoys watching on the iPad. I listened to my music outdoors as well, and was very pleased with the sound.<br /><br />We have a very large yard, so the 33 ft doesn't extend to her fort, but I was able to test the connection, and it worked well around most of our yard.<br /><br />Things I really like:<br /><br />It comes with its own charger, and can charge through the included outlet OR off of the computer. Just one more choice I don't have to worry about.<br /><br />The hands free speakerphone that adds function to my iPhone.<br /><br />The fact that it really is shock resistant and waterproof.<br /><br />The long playtime without charging<br /><br />The handy size<br /><br />Things that were problematic for me:<br /><br />It took several tries to connect it to the bluetooth on my iPad. This was not my first experience with a bluetooth connection, so I was a bit surprised with the difficulty in the two finding each other.<br /><br />Once I got the speaker and iPad connected, things went well, but that first time I thought it wouldn't work at all. Bluetooth speakers aren't very handy if they don't connect to the source. I have given it four stars, because I eventually did get it to connect with my iPad, and I have several friends who have not had a similar problem.<br /><br />When I contacted Grace Digital, they stated that they had not experienced a problem like this in their testing process.aker and iPad connected, things went well, but that first time I thought it wouldn't work at all. Bluetooth speakers aren't very handy if they don't connect to the source. I have given it four stars, because I eventually did get it to connect with my iPad, and I have several friends who have not had a similar problem.<br /><br />When I contacted Grace Digital, they stated that they had not experienced a problem like this in their testing process.",
+        "hover_star_count": 4,
+        "x": -0.1273539513349533,
+        "y": 0.08539687097072601,
+        "z": -0.1638890504837036,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "homely-mauve-termite"
+    },
+    {
+        "hover_review_headline": "Five Stars",
+        "hover_review_body": "its the best",
+        "hover_star_count": 5,
+        "x": 0.6296916604042053,
+        "y": -0.17704221606254578,
+        "z": 0.06208043918013573,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "sloppy-amaranth-clam"
+    },
+    {
+        "hover_review_headline": "works great",
+        "hover_review_body": "good value and works nice, and water proof too can't go wrong,  Live in Hawaii and rain don't stop this speaker from a little rain",
+        "hover_star_count": 4,
+        "x": -0.2512872517108917,
+        "y": -0.12217192351818085,
+        "z": -0.035890039056539536,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "skinny-puce-snail"
+    },
+    {
+        "hover_review_headline": "Works like OEM adapter",
+        "hover_review_body": "Cheap adapter that works like the original OEM that came with the laptop.  Doesn't overheat.  Tight plug fit.  No regrets",
+        "hover_star_count": 5,
+        "x": -0.02333630435168743,
+        "y": 0.27881553769111633,
+        "z": -0.3549827039241791,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "muggy-saffron-crab"
+    },
+    {
+        "hover_review_headline": "Great buy:)",
+        "hover_review_body": "It has enough reviews,my husband n I love nose.great music n it has Bluetooth ..so it can be paired to any phone :)",
+        "hover_star_count": 5,
+        "x": -0.15955576300621033,
+        "y": -0.15528874099254608,
+        "z": -0.12516945600509644,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "scaly-ecru-macaw"
+    },
+    {
+        "hover_review_headline": "Arrived With a Scratched Screen",
+        "hover_review_body": "We purchased this \\\\\"new\\\\\" and it arrived with a scratched screen, very little padding, and no receipt in the box. This is the last time we buy electronics from Amazon; this isn't the first time something has arrived in poor condition.",
+        "hover_star_count": 1,
+        "x": -0.0164170078933239,
+        "y": 0.28177112340927124,
+        "z": -0.20146562159061432,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "sleazy-myrtle-buzzard"
+    },
+    {
+        "hover_review_headline": "Three Stars",
+        "hover_review_body": "Works well for the money",
+        "hover_star_count": 4,
+        "x": 0.6037511229515076,
+        "y": -0.14548970758914948,
+        "z": 0.0400218740105629,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "beady-myrtle-ocelot"
+    },
+    {
+        "hover_review_headline": "Diver works well!",
+        "hover_review_body": "This is the second waterproof MP3 I've tried.  It's worked very well.  Programming is easy, battery lasts long enough for multiple swims, and the sound is fine - even while swimming freestyle.  I generally swim for over 1/2 hour every session and there's been no troubles with this device.  I have started wearing it for running also.  No issues. I would recommend this product to anyone!",
+        "hover_star_count": 5,
+        "x": -0.25273337960243225,
+        "y": -0.043176908046007156,
+        "z": -0.25431352853775024,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "squeaky-sapphire-ant"
+    },
+    {
+        "hover_review_headline": "Three Stars",
+        "hover_review_body": "Better off getting an NAD true Pre-Amp for about the same money off of EBay.",
+        "hover_star_count": 3,
+        "x": 0.10831388831138611,
+        "y": -0.21655520796775818,
+        "z": 0.07256660610437393,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "hover_review_name": "smelly-orange-gorilla"
+    },
+    {
+        "hover_review_headline": "Yep, they're eneloops.",
+        "hover_review_body": "Somehow the 12 packs are the least cost-efficient choices for these eneloops. KNOWLEDGE IS POWER: Try the math yourself. I wonder if it has something to do with the item's weight?",
+        "hover_star_count": 5,
+        "x": 0.08804138004779816,
+        "y": 0.030230076983571053,
+        "z": -0.14776340126991272,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "skanky-ecru-shrew"
+    },
+    {
+        "hover_review_headline": "Cheap",
+        "hover_review_body": "Kind of cheaply made and didn't pick up many channels.",
         "hover_star_count": 2,
-        "x": -0.2489517778158188,
-        "y": 0.060596659779548645,
+        "x": -0.05580534040927887,
+        "y": 0.045987557619810104,
+        "z": 0.2180132418870926,
         "color": [
             200,
             0,
             0
         ],
-        "hover_review_name": "thirsty-peach-malamute"
+        "hover_review_name": "homely-myrtle-llama"
     },
     {
-        "hover_review_headline": "Five Stars",
-        "hover_review_body": "excellent quality, shipped fast",
+        "hover_review_headline": "Simplicity, Good Looks & Good Sound",
+        "hover_review_body": "This is a really good sound bar.  Not only does it look good but it also sounds good.  It fits under your TV so there is less clutter & no blocking the TV remote sensor.  Hooking it up is simple.  Yes, you can get bigger/better sound with more speakers & a subwoofer but for those who just want very good sound & not the clutter & trouble of hooking up a bunch of speakers, this is really good.<br /><br />The sound is very good.  It has the typical Bose sound which is not bass heavy - I like it.  If you need to blow someone out of their chair with bass, this is not the system for you.  It does fill a room with sound.  I have it on my kitchen TV.  The room has cathedral ceilings, windows & is about 25'x20' - more than enough power for this room.<br /><br />-One of the complaints with an earlier version of the Solo was that it did not have dialogue enhancement; this new version has it & it does improve the sound of dialogue.  It's a simple push of the button on the remote.<br />-Has Bluetooth so you can stream music from your device.  Pairs easily with my Samsung Galaxy S5 & S6.<br />-This sound bar comes with a universal remote so you can power on/off, change channels, volume & use a cable/satellite system on your TV or control devices.  It is a well designed remote - nice big buttons & easy to understand.  Full size: 9&#34; long x 2.25&#34; wide.  The &#34;Universal Remote Device Codes&#34; booklet is included so you can look up your TV/BluRay/Game/DVR/Cable/Satellite code & program it.<br />-Fits under TVs 46&#34; to 50&#34; & weighs no more than 75 pounds.  The base of the TV should be no larger than 24&#34;.  If your base is too big, put this Bose on a shelf.<br />-It has a curved front & the measurements are: 24.75&#34; wide x 14&#34; deep.  You should have at least 1&#34; more behind the unit for air circulation - so at least 15&#34; deep.<br />-Comes with the optical cable, 3.5mm audio cable & a power cord.<br />-The directions are good & easy to follow; this takes very little time to set up.<br /><br />I am using this with my kitchen TV (I have a complicated setup in my living room) - wow, it is perfect for that (maybe overkill).  Would also be great in a bedroom.  Or in a living room if you don't want/need a big sound system.es very little time to set up.<br /><br />I am using this with my kitchen TV (I have a complicated setup in my living room) - wow, it is perfect for that (maybe overkill).  Would also be great in a bedroom.  Or in a living room if you don't want/need a big sound system.",
         "hover_star_count": 5,
-        "x": 0.5854231715202332,
-        "y": -0.3746740520000458,
+        "x": -0.25982865691185,
+        "y": -0.14009541273117065,
+        "z": 0.5088984966278076,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "chummy-aquamarine-moth"
+        "hover_review_name": "stinky-champagne-coyote"
+    },
+    {
+        "hover_review_headline": "Why anyone would pay $100 + for a headphone that ...",
+        "hover_review_body": "Why anyone would pay $100 + for a headphone that doesn't even state the frequency response numbers is beyond me. Look at a Sony package - clearly says the bass and highs you can expect.",
+        "hover_star_count": 1,
+        "x": -0.36301469802856445,
+        "y": -0.18043357133865356,
+        "z": -0.07872483879327774,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "messy-cobalt-burmese"
+    },
+    {
+        "hover_review_headline": "Expensive Junk With Lots of Quirks",
+        "hover_review_body": "I have a love-hate relationship with the Marantz SR5009.  I love the sound quality.  I've got a 3.1 setup.  I've got a pair of Golden Ear Triton 7s attached to the front channels, Golden Ear SuperSat 60 for the center, and a Golden Ear Forcefield 4 as the sub.  The vast majority of my music is either in MP3 or FLAC and sound great when streamed from my NAS (network attached storage).  When the subwoofer kicks in while watching a movie, I get startled by the life-like thuds and bangs.  It's awesome.  That's where my love of the SR5009 ends.<br /><br />I don't know where to begin with may hate list.<br />1) It can't connect to my wifi.  I don't know if it's my router (an old d-link), but every other gadget can connect to my wifi.  So I'm assuming there's something up with the Marantz.  It would connect to my neighbor's unsecured wifi, which is a NetGear router.  I had to get another router, set that router up in bridge mode, and connect the SR5009 to my new router.<br />2) Spotify doesn't recognize the SR5009 as a valid device.  My smartphone and the SR5009 are on the same network, and the spotify app doesn't show the SR5009.  I don't know.  Maybe there is an issue with Spotify, but I'm really skeptical of the networking abilities fo the SR5009.<br />3) Streaming from a NAS to the SR5009 is painful.  Every other device can quickly select and play music from my NAS without issue.  Only the SR5009 has problems.  I have yet to figure out a good solution to selecting music on my NAS to play on the SR5009.  The android app is terrible.  My current solution is to manually connect to the SR5009 from a browser on my computer or smartphone, by using the IP address of the SR5009.  I suspect that the SR5009 has a web server, which is what allows me to select different modes on the SR5009 and browse my NAS.<br />4) The Marantz app on Android is terrible.  It refuses to recognize the SR5009.  The third party app on Android is no better.<br />5) The surround sound decoding seems odd to me.  I don't know if the issue is with the SR5009 or my Directv receiver, but it seems like some sound channels are missing.  For example, when watching NFL games when the referee announces a penalty, the referee cannot be heard at all.  I played with every setting on both the SR5009 and directv receiver, but I couldn't figure out where the problem is.<br /><br />I could go on with the things I hate about this receiver.  I would not purchase this product again.  If your looking for a home theater receiver and  planning on using a lot of the network functionality, I would look elsewhere.  The SR5009 and it's network functionality is not good.  I can't believe they would release a product with so many quirks.",
+        "hover_star_count": 2,
+        "x": -0.25915712118148804,
+        "y": -0.08331660181283951,
+        "z": 0.22834551334381104,
+        "color": [
+            200,
+            0,
+            0
+        ],
+        "hover_review_name": "frumpy-gold-orangutan"
+    },
+    {
+        "hover_review_headline": "Sony Under-counter radio",
+        "hover_review_body": "Ordered this unit for my girlfriend's birthday present because I have an old one that I use all the time in the kitchen and she loved it.  She loves this one even more and uses it all of the time like I do mine.  Apparently, this unit is even better than my old GE.  Amazon delivered it directly to her address and that saved me postage as well as the reasonable price Amazon charged me.  Good deal!",
+        "hover_star_count": 5,
+        "x": -0.24445794522762299,
+        "y": 0.08881966769695282,
+        "z": 0.19210867583751678,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "whiny-smalt-bordeaux"
+    },
+    {
+        "hover_review_headline": "Bulb flickers",
+        "hover_review_body": "I cheaped out and bought this clone bulb for $40 instead of a real Philips bulb for $80.  The bulb intermittently flickers.  Not as bright a the original Philips bulb.  This one does come with a housing which is worth something but not $40.  The $40 I spent on this one was mostly wasted.  Get a real Philips bulb and save yourself the hassle.",
+        "hover_star_count": 2,
+        "x": 0.010033761151134968,
+        "y": 0.31397002935409546,
+        "z": 0.04258788004517555,
+        "color": [
+            200,
+            0,
+            0
+        ],
+        "hover_review_name": "beady-yellow-clam"
+    },
+    {
+        "hover_review_headline": "A Piece Of Work",
+        "hover_review_body": "This a great walkman for the dollar and over all the performance and handling was great  I love this walk man",
+        "hover_star_count": 4,
+        "x": 0.05939238518476486,
+        "y": -0.12010064721107483,
+        "z": -0.12674307823181152,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "leaky-auburn-dragonfly"
+    },
+    {
+        "hover_review_headline": "A Real Deal for Awesome Sound",
+        "hover_review_body": "Simple to use, durable, great sound quality. Works great with my smart phone and it's small enough to take anywhere. Quality product for a lower price than most.",
+        "hover_star_count": 5,
+        "x": -0.2882382273674011,
+        "y": -0.29841911792755127,
+        "z": -0.08427485078573227,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "crabby-mauve-zonkey"
+    },
+    {
+        "hover_review_headline": "Good quality and good price",
+        "hover_review_body": "I bought the for my powered sub woofer connected tomy Okyne receiver, it was money well spent , great sound and no distortion",
+        "hover_star_count": 4,
+        "x": -0.2518460750579834,
+        "y": -0.26981648802757263,
+        "z": 0.1322580873966217,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "squirrely-beige-numbat"
+    },
+    {
+        "hover_review_headline": "Good purchase",
+        "hover_review_body": "I had dreamed for years about having a whole house sound system.  I envisioned mounting wireless speakers in every room and writing some software to control the whole opperation......whew so much work and money.  This is the solution!  I bought two of these, one to sit by the nightstand and act as an alarm clock/music for my bedroom.  The other travels all over the house (with the purchase of a battery pack and remote) and provides big sound where ever I should need to. Control options are many (the remote, the iphone/android app, the web control interface)  It plays your own music as well as streaming internet radio stations.  About one month in and I am in love with this product and I thought the price was very reasonable as well.",
+        "hover_star_count": 5,
+        "x": -0.3224879205226898,
+        "y": -0.03941565006971359,
+        "z": 0.3942826986312866,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "blurry-linen-chipmunk"
+    },
+    {
+        "hover_review_headline": "Compact Amplifier",
+        "hover_review_body": "Like it best from all of the compact choices available for amplifiers.  Like that it is compact, but was hoping for even more compact.  Like that it has several input connections.  I was hoping it would be a little louder but it was ok for what I required it for.",
+        "hover_star_count": 3,
+        "x": -0.22275038063526154,
+        "y": -0.15938213467597961,
+        "z": 0.27846962213516235,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "hover_review_name": "hilly-turquoise-devil"
+    },
+    {
+        "hover_review_headline": "Five Stars",
+        "hover_review_body": "HAVE NOT HAD TEM LONG CAME FULLY CHARGED ...TIME WILL TELL",
+        "hover_star_count": 5,
+        "x": 0.43788018822669983,
+        "y": -0.00043766177259385586,
+        "z": -0.2380957156419754,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "freaky-chartreuse-elephant"
+    },
+    {
+        "hover_review_headline": "Nice cheap headphones",
+        "hover_review_body": "About what I expected.  Sounds good but I don't like the fitment of the rubber plugs.  One is too big, one is too small.<br /><br />Cable is a bit grippy, not sure if it's good or bad for me.  As long as it is durable.  I like the angle of the head jack.",
+        "hover_star_count": 4,
+        "x": -0.3186081051826477,
+        "y": -0.3464009761810303,
+        "z": -0.19670554995536804,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "thirsty-viridian-audemer"
+    },
+    {
+        "hover_review_headline": "quality product",
+        "hover_review_body": "Excellent product. Couldn't ask for anything more.",
+        "hover_star_count": 5,
+        "x": 0.041916362941265106,
+        "y": 0.055477578192949295,
+        "z": -0.19006705284118652,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "chewy-bistre-jaguar"
+    },
+    {
+        "hover_review_headline": "Great until they break!",
+        "hover_review_body": "I thought i had defective pair of headphone until i started to read other reviews. I had the same problem that many other people have had...after a few months i noticed the left headphone sounded softer. It got softer and softer until i forced to stop using the headphones. While these are a great LOOKING pair of headphones do not invest in these if your looking for a product that will last. After having spent 80 dollars I have to go out and buy a different pair of headphone now",
+        "hover_star_count": 1,
+        "x": -0.21383044123649597,
+        "y": -0.31749817728996277,
+        "z": -0.3417552709579468,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "slimy-ivory-hummingbird"
+    },
+    {
+        "hover_review_headline": "Perfect, Clear Audio",
+        "hover_review_body": "Awesome audio quality, package was shipped quickly and I am 100% satisfied with the headphones. I'm not sure if the wood really changes the sound acoustics, but going to this from the standard iPhone headset is 0-100 real quick.",
+        "hover_star_count": 5,
+        "x": -0.26843366026878357,
+        "y": -0.367188036441803,
+        "z": -0.21108093857765198,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "queasy-brown-okapi"
+    },
+    {
+        "hover_review_headline": "Remote isen't working rite",
+        "hover_review_body": "Won't turn volume up or down on the the remote. It dose everything but work the vlolume, I tryed all i can think of oll i ve read abought and still no volume.",
+        "hover_star_count": 1,
+        "x": -0.09445984661579132,
+        "y": 0.44354677200317383,
+        "z": 0.0051719434559345245,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "shabby-buff-ocelot"
+    },
+    {
+        "hover_review_headline": "Five Stars",
+        "hover_review_body": "Very good product with good clarity and vibrant sound.",
+        "hover_star_count": 5,
+        "x": 0.454988032579422,
+        "y": -0.34467244148254395,
+        "z": 0.10926096886396408,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "sunny-mustard-saola"
+    },
+    {
+        "hover_review_headline": "Why pay more?",
+        "hover_review_body": "These mounts are awesome! Sturdy, well built, easy to put up, and oh yeah cheap! Better than most high-end mounts, but for a much better price.",
+        "hover_star_count": 5,
+        "x": -0.0003011372755281627,
+        "y": -0.011167903430759907,
+        "z": 0.11572298407554626,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "gamy-harlequin-vole"
+    },
+    {
+        "hover_review_headline": "In ear headphone, ear buds BOOM, BOOM,BOOM, BUY BUY BUY",
+        "hover_review_body": "When properly set to the whichever sound wave, that of which you are currently listening to these phones BUMP! Guitar riffs reproduced without exaggerated bass, muddy mids an d very importantly highs that do not seem to emit from a beer can( 0nce again you must search for the right sound wave for the type of music you are currently using  or  and would works flawless on my LG g2, mic controls everything supposedly with 1-3 clicks on mic except (maybe my error) with incoming call I still must swipe answer or I just selected auto answer placing mobile next to my ear and then place mobile in pocket.  But my i pod classic it  sounds superbly SWEEEEET!!!!!!. Mic will not control any of my I pod functions however (blahblahblah), accurate balanced sound wave will always win over an idiosyncrasy control function any time. Noise cancelling possibilities if you use the (one of six configurations) silicon adaptors provided should fit most any ear canal and they are comfortable as I wear mine for hours every day. Fyi, the drivers in these you must turn volume next to off on your mobile as they are very powerful. A great buy for those who want to upgrade sound without getting into Audiophileland. The seller warns of the delay of shipping process by SEVERAL days to a week-10 days, but as stated they will be at your door 1-2  days after they are claimed to be shipped (seller must be in Cali) as they were at my door the very day after being claimed to ship. MEElectronics apparently stopped making these models are discontinued by and replaced by a model number that have slightly inferior specs for a significant price drop. I was unable to find them on their website.",
+        "hover_star_count": 5,
+        "x": -0.3080494701862335,
+        "y": -0.25504225492477417,
+        "z": -0.17809845507144928,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "ugly-russet-tetra"
+    },
+    {
+        "hover_review_headline": "50' is long",
+        "hover_review_body": "as expected",
+        "hover_star_count": 5,
+        "x": 0.07409417629241943,
+        "y": 0.10777909308671951,
+        "z": -0.03601779416203499,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "surly-azure-corgi"
     },
     {
         "hover_review_headline": "Four Stars",
-        "hover_review_body": "great quality, fast shipping, I recommended this item!!!",
+        "hover_review_body": "works well for the intended application.",
         "hover_star_count": 4,
-        "x": 0.5952209830284119,
-        "y": -0.23336434364318848,
+        "x": 0.6511982083320618,
+        "y": -0.05936921760439873,
+        "z": 0.10358966886997223,
         "color": [
             0,
             200,
             0
         ],
-        "hover_review_name": "squirrely-gold-chow"
+        "hover_review_name": "pasty-platinum-lionfish"
     },
     {
-        "hover_review_headline": "Earphone design needs improvement",
-        "hover_review_body": "These are my second Sennheiser earphones, the first pair wasn't bad and neither are these. While the design of these earphones are chic, I noticed that the earphone part that go inside the ears should have been made to sit a bit closer to eardrums to feel the quality of these phones. They have excellent treble, but the bass lacks a bit only due to the fact that they sit far away from eardrums. The sound becomes really enjoyable when a slight pressure is placed upon them, only then they deliver the right amount of bass. Had the Sennheiser designed the earphone part slightly longer, the delivery of the sound would have been perfect as they contain enough treble as well as bass. They wrap around your ears quite nicely without causing any discomfort and remain stable during running.",
+        "hover_review_headline": "Works fine, but not pre-charged anymore",
+        "hover_review_body": "My research found that eneloop batteries are the best out there.<br />Not pre-charged anymore, as they arrived around 20% charge. (One star docked for coming with less of a charge than regular rechargable batteries.) These must have been manufactured years ago and discharging on the shelf for a long time. But, once recharged, they've worked well for the 24 hours I've owned them.",
         "hover_star_count": 4,
-        "x": -0.43468964099884033,
-        "y": -0.42315810918807983,
+        "x": 0.014052341692149639,
+        "y": 0.13992071151733398,
+        "z": -0.2881677448749542,
         "color": [
             0,
             200,
             0
         ],
-        "hover_review_name": "greasy-zucchini-hyrax"
+        "hover_review_name": "goopy-bistre-sheepdog"
     },
     {
-        "hover_review_headline": "Gets the job done.",
-        "hover_review_body": "For what you pay, this product is worth every dollar. Lightweight, holds everything you're listening to at the moment, user interface is everything you need, battery life is enough to hold you for a long enough road trip and back. If your budget is low then you need look no further, this is the portable music device for you.",
-        "hover_star_count": 4,
-        "x": -0.30492788553237915,
-        "y": 0.03180369362235069,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "stinky-ecru-anteater"
-    },
-    {
-        "hover_review_headline": "works great!",
-        "hover_review_body": "Good sound and works great.  Like the dimmer and the quick setting option.<br />Dont like the docking feature, take a while to locate and the small volume buttons on the side are not good design features.",
-        "hover_star_count": 3,
-        "x": -0.07644815742969513,
-        "y": 0.1411512792110443,
-        "color": [
-            200,
-            200,
-            200
-        ],
-        "hover_review_name": "sloppy-wisteria-pig"
-    },
-    {
-        "hover_review_headline": "Great sound eventually but required some tweaking",
-        "hover_review_body": "I received these earbuds a couple of days ago and have spent considerable time tweaking them to get them to sound properly. I felt I should share what I learned because after my initial experience I thought they were terrible but eventually I got them to sound incredible. So here goes....    The ergonomics of this product are awful at first. It takes a long time to properly fit the earpiece to your ear so that you can put the earbuds in properly. For a product with this price point this part should be much more robust. Personally, I dislike having the cabling go behind my ears but there is absolutely no practical way to use them any other way. OK, it is different than what I am used to but I am getting used to that quickly. It just seems to take way too long to put the earbuds on because of the construction of the earpiece. The cable seems to slip out of them a lot. Eventually I got it working and comfortable and once you do they are solid in your ear even if you work out. The cable connection to the rca jack is a bit flimsy and you can hear static if you move it around more than just a little.    The bigger problem is fitting the earbuds properly for sound quality. The default foam and rubber inserts just did NOT work at all for me and the quality of the bass was just atrocious. I knew based on some previous reviews that bass was good for many people so I did not want to give up. I tried EVERY one of the inserts to no avail. I finally went out and bought a set of Comply T400 inserts for these headphones. You can buy them on Amazon or at your local Radio Shack. Wow is all I can say!!! The difference was beyond incredible. It transformed a horrible initial experience into a sublime listening device. Clarity was crystal clear with just fantastic frequency response across the whole audio spectrum and a great sound field. I used the song \\\\\"Back to the Hotel\\\\\" by N2Deep for my bass comparison because it is prominent but hard to get right for inferior equipment. It was completely different with and without the inserts. Without the inserts you would not be able to make out the notes. With them you could sit down and play it out directly. This song is also helpful because it has recurring high treble parts that would just get lost on bad earbuds. I also put in Bill Evans' \\\\\"Peace Piece\\\\\" to see how they sounded on pure piano played over a wide octave and dynamic range. Just wonderful so if you like classical or jazz they have the frequency response you need.    These headphones are flawed in the ergonomics but the sound quality is so good if you add the T400's that it is worth putting up with. Like a restaurant with a snotty Maitre' D but incredible food. You put up with it cause it just is so tasty! Sound gets 5 stars but I only gave the product 4 because of the poor earpiece ergonomics and the fact that I had to go and spend extra time and money to make the product perform properly.",
-        "hover_star_count": 4,
-        "x": -0.3853033483028412,
-        "y": -0.1660664826631546,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "hazy-aquamarine-greyhound"
-    },
-    {
-        "hover_review_headline": "CUTE LITTLE CRANK",
-        "hover_review_body": "THIS EMERGENCY, CRANK PORTABLE RADIO CAME VERY QUICKLY, WORKS WELL, AND IS A CUTE ITEM.  I RECOMEND AMAZON DEALER WHO MAILED IT TO ME.",
+        "hover_review_headline": "Just hooked up today.  Sounds and looks fantastic.",
+        "hover_review_body": "Fast hook up easy to understand.  Better than my onkyo 606  great reciever for the buck. Would rebuy in a heartbeat if had any of the bad reviews were true.  Very happy with product",
         "hover_star_count": 5,
-        "x": 0.05269326642155647,
-        "y": 0.007377232424914837,
+        "x": -0.224218487739563,
+        "y": 0.0003566707018762827,
+        "z": 0.18027307093143463,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "wheezy-brass-shrew"
+        "hover_review_name": "squirrely-malachite-tetra"
     },
     {
-        "hover_review_headline": "I installed these cables as part of an upgrade of ...",
-        "hover_review_body": "I installed these cables as part of an upgrade of my home audio system.  I am using them to carry signal from my blue ray player to my preamp.  Seems to may they work well.",
-        "hover_star_count": 4,
-        "x": -0.20599661767482758,
-        "y": 0.02661067061126232,
+        "hover_review_headline": "Worked for 45 days",
+        "hover_review_body": "Quit working after 45 days.  Would not take it as a return because it was over 30 days. Sound was decent while it lasted.",
+        "hover_star_count": 1,
+        "x": -0.2652813494205475,
+        "y": 0.11435328423976898,
+        "z": -0.20416070520877838,
         "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "thirsty-green-chihuahua"
-    },
-    {
-        "hover_review_headline": "Great Sound for the Price!",
-        "hover_review_body": "I was pleasantly amazed at the sound this product delivers for the price. We needed better sound than our LED delivered but did not want to spend $200 or more on a sound bar. This unit delivers. Great sound with ample bass at moderate to loud volume. Just be sure you have the correct cables to hook it up. I had to buy a \\\\\"Y\\\\\" mini cable to RCA to hook it up my LG ($3).(Belkin Audio Y Cable Splitter 1-Mini Plug/2-RCA Plugs (6 Feet)) The Coby does not have an optical cable port. The Coby delivers as good as units double the price.",
-        "hover_star_count": 5,
-        "x": -0.15413497388362885,
-        "y": 0.07846912741661072,
-        "color": [
-            0,
             255,
-            0
-        ],
-        "hover_review_name": "sleazy-lilac-bonobo"
-    },
-    {
-        "hover_review_headline": "Works as intended. We now have a working microphone ...",
-        "hover_review_body": "Works as intended. We now have a working microphone in our lobby to record angry customers. It's a fabulous thing.",
-        "hover_star_count": 5,
-        "x": -0.1519024819135666,
-        "y": 0.17798292636871338,
-        "color": [
             0,
-            255,
             0
         ],
-        "hover_review_name": "flabby-magnolia-paradise"
-    },
-    {
-        "hover_review_headline": "kids love them",
-        "hover_review_body": "I got these to go with my grandkids MP3 players.  The others were too big for their little ears.  So far, they have worked great and they think it is so cool that it looks like a M&M in their ear...haha",
-        "hover_star_count": 4,
-        "x": -0.29549649357795715,
-        "y": -0.38464081287384033,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "smelly-taupe-bracke"
+        "hover_review_name": "whiny-red-mouse"
     },
     {
         "hover_review_headline": "Five Stars",
-        "hover_review_body": "Goop product! No problems!",
+        "hover_review_body": "Works as it should.",
         "hover_star_count": 5,
-        "x": 0.5018888115882874,
-        "y": -0.2727673649787903,
+        "x": 0.7293360233306885,
+        "y": -0.02018471248447895,
+        "z": -0.008023260161280632,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "cloudy-copper-beetle"
+        "hover_review_name": "gummy-pear-zebu"
     },
     {
-        "hover_review_headline": "Needs to work with the 30-Pin to Lightning adapter to get the 5th star",
-        "hover_review_body": "The speaker is very clear and definitely sounds great. The overall look and feel of the system is great. It is a nice low profile base that has the option of standing the iPad up or laying the iPad down (with a slight incline) in the base for working on a desk. The only problem that I had is that it is limited to devices with 30-Pin plugs. I tried the 30-Pin to Lightning adapter but sound won't play through the speaker, it will only charge the device. Luckily, I had an old iPad 2 that could be used and works great with this system. I am very happy with the speaker and would consider buying another if they make one with the Lightning plug.",
-        "hover_star_count": 4,
-        "x": 0.06253966689109802,
-        "y": -0.02566756308078766,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "sickly-cinnabar-axolotl"
-    },
-    {
-        "hover_review_headline": "Love it",
-        "hover_review_body": "works great on all our tvs and kindles.  would suggest getting it to anyone in the market for a screen cleaner.",
+        "hover_review_headline": "I think I like it more than she does and SHE'S the Doctor ...",
+        "hover_review_body": "HAHA... Got this for my girlfriend not too long ago.  I think I like it more than she does and SHE'S the Doctor Who fan!  Its a lot of fun to play with.  Programming is easier than most universal remotes.  Just takes a little getting used to as far as the movements.  Really neat piece of gear though.  I can use it to control everything in my entertainment center!",
         "hover_star_count": 5,
-        "x": 0.20390839874744415,
-        "y": 0.32127195596694946,
+        "x": -0.07491588592529297,
+        "y": 0.051943589001894,
+        "z": 0.18600879609584808,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "trippy-cinnabar-crab"
+        "hover_review_name": "chummy-eggplant-impala"
     },
     {
-        "hover_review_headline": "Best Sounding Integrated Amp for under $500",
-        "hover_review_body": "I've had many integrated amps in this price range (Pioneer Elite AR35, Cambridge Azur 350A, and a Marantz 1402 AVR. After listening to and comparing to the Cambridge (which I still owned at the time) I was blow away out much more natural the music sounded.<br /><br />While the A-S500 has it's minimal Bass and Tone knobs, you don't need to touch them. Just leave it on \\\\\"Pure Direct\\\\\" and you have yourself an amp that if was sold by Levinson, Pass, or SImaudio you would not be able to tell the difference.<br /><br />I run these components through it<br />IMac with a DAC through it: 5 Stars<br />VPI Scout Turntabe: 5 Stars<br />Rega Apollo CD player: 5 Stars<br /><br />I have not tried the iPod hook up. The only decent Amp I've heard that can plug and play an iPod are the higher end Pioneer Elite AVR's, which we use for our home theatre.<br /><br />I try out a lot of audio gear just to try it, and flip the gear and buy new stuff. This is the only one I have wanted to keep.<br /><br />The plastic knobs are lame, but I don't use them and they look like brushed aluminum any way.<br /><br />Buy this amp if you're newb audiophile or on a budget...or just want to set up an incredible 2 Channel System. And Bi-Wire your speakers, if speakers allow.",
-        "hover_star_count": 5,
-        "x": -0.32676225900650024,
-        "y": -0.012379336170852184,
+        "hover_review_headline": "Antenna is Out of Control",
+        "hover_review_body": "1. I guess you get what you pay for, and this unit was cheap.  After a few minutes of working \\\\\"correctly\\\\\", this thing began rotating to the turn-around point and back, continuously.  The only way to stop it is to turn the power off and back on.  Then it waits a while and starts all over.  I tried putting a black cloth over the whole control box, so it isn't stray infrared signals.<br /><br />2.  When it works \\\\\"correctly\\\\\", you have no way of knowing which way it will rotate when you push the button.  The electronic unit has only one button, and when pushed the unit may rotate left or right.  There's no way to predict, and there's no position indication to let you know which way it's pointing or rotating. The remote control has TWO buttons, so you would think one would be to rotate clockwise, and the other counterclockwise, but BOTH buttons get random directions, just like the single button on the electronics box.  CONCLUSION: even if you get a \\\\\"good\\\\\" one, this system is only usable if you can SEE which way it's pointing while adjusting its position.<br /><br />3.  It DOES get a stronger signal than the tiny amplified indoor antenna that came with my USB TV receiver, but still isn't really satisfactory, even for the three closest stations, none of which are major networks.<br /><br />4.  I would send this back, but it took so long to assemble that I don't want to bother disassembling it, and packing it up.  The power must be on for it to bring in a signal, so I plan to find a way to disable the rotator feature, and turn it by hand.<br /><br />4.  RECOMMENDATION: if you want a directional outdoor antenna, get a better one, and get a standard rotator, which will rotate it to the direction shown on the controller -- more expensive, but it does what's needed.  If you just want something to mount in an upstairs room where you can see it from your TV viewing location, then get a small directional antenna, and rotate it by hand.",
+        "hover_star_count": 1,
+        "x": -0.03451656177639961,
+        "y": 0.41997474431991577,
+        "z": 0.2442120760679245,
         "color": [
-            0,
             255,
-            0
-        ],
-        "hover_review_name": "lumpy-auburn-wolf"
-    },
-    {
-        "hover_review_headline": "Classic",
-        "hover_review_body": "I understand why professionals use these headphones. They're very durable, comfortable and they sound great - all at a surprisingly low price. You don't need active noise cancelling with these babies as their excellent fit seals out extraneous noise",
-        "hover_star_count": 5,
-        "x": -0.32649731636047363,
-        "y": -0.3154403865337372,
-        "color": [
             0,
-            255,
             0
         ],
-        "hover_review_name": "skinny-salmon-frog"
+        "hover_review_name": "silly-russet-duck"
     },
     {
-        "hover_review_headline": "gets the job done",
-        "hover_review_body": "right size for tight spaces...... that's all I've got to say folks and I hope you enjoy them as have I",
-        "hover_star_count": 4,
-        "x": 0.08863315731287003,
-        "y": -0.3069244623184204,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "lousy-periwinkle-bombay"
-    },
-    {
-        "hover_review_headline": "fast delivery, works great",
-        "hover_review_body": "I got this in a couple of days. This item cost less than a buck, including shipping, and allowed me to move my 50 inch screen w/audio to another location, away from my computer, in my room. It works great!",
-        "hover_star_count": 5,
-        "x": 0.05280282348394394,
-        "y": 0.2567577660083771,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "stealthy-champagne-grasshopper"
-    },
-    {
-        "hover_review_headline": "The ultimate Gym headphones",
-        "hover_review_body": "The sound quality is ideal for thumping bass during a workout.<br />I listen to an eclectic mix of music from operatic metal to rap to classical to hip hop.<br />These are beyond perfect.<br />Comfort is superb (I can wear them for hours on end) and the ability to easily clean the ear pieces is truly unique.<br />When I throw these cans on my ears,  the world is blocked out and I can really focus on my gym flow with no auditory distractions.<br /> A must buy for any real gym rat.",
-        "hover_star_count": 5,
-        "x": -0.42658039927482605,
-        "y": -0.35119712352752686,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "wiggy-aqua-setter"
-    },
-    {
-        "hover_review_headline": "Slow charging",
-        "hover_review_body": "A problem with this device is that it screws into the electrical receptacle, which is attached to the electrical box in the wall. My electrical box is a little loose so everything wiggles and I have to be careful when unplugging AC cords.<br /><br />Charging my Android phone takes about twice as long as using the phone's own charger.",
+        "hover_review_headline": "Sony MDR-IF240RK",
+        "hover_review_body": "Headset is light and easy to use.  The only problem is distance from the transmitter to the headset, i.e., if I walk from my  family room and into the kitchen (which does require going around a corner), I lose the signal.  Otherwise, this is a fine  headset at an excellent price point.",
         "hover_star_count": 3,
-        "x": 0.06167219579219818,
-        "y": 0.12172044813632965,
+        "x": -0.21686094999313354,
+        "y": -0.055598028004169464,
+        "z": 0.12196952104568481,
         "color": [
             200,
             200,
             200
         ],
-        "hover_review_name": "scaly-silver-dachshund"
+        "hover_review_name": "seedy-black-bandicoot"
     },
     {
-        "hover_review_headline": "fantastic!",
-        "hover_review_body": "The quality of sound this optical cable gives my surround sound is superb! So glad I decided on this. Especially makes the sound in movies way better! A++++",
+        "hover_review_headline": "Five Stars",
+        "hover_review_body": "My second set so I don't have to move between outputs",
         "hover_star_count": 5,
-        "x": -0.1290522664785385,
-        "y": 0.0637073665857315,
+        "x": 0.5405265092849731,
+        "y": -0.07819075882434845,
+        "z": 0.18878892064094543,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "frumpy-aqua-ostrich"
+        "hover_review_name": "smelly-tangerine-catfish"
     },
     {
-        "hover_review_headline": "Great HDMI cable at a reasonable price",
-        "hover_review_body": "This is a 6.5 foot HDMI cable that fits into the standard HDMI port of a computer, television, etc. If you want to connect your computer to a display device using an HDMI cable, you cannot go wrong by ordering this cable. It ships quickly and is backed by Amazon. It is also priced fairly.  Do not buy over-priced HDMI cables at big-box retailers like Best Buy or even Target. There is nothing special about &#34;gold-plated&#34; or &#34;diamond-crusted&#34; HDMI cables that cost 5x-20x the price of this cable.  HDMI is a digital standard, so you either get a signal or you don't. If you plug this cable in and get a signal (which you will, unless you were accidentally shipped a faulty cable), then your picture will be just as good as what you would get from buying a $75 rip-off cable from Best Buy.<br /><br />Another bonus: This cable comes in easy-to-open packaging so you are only one minute away from receiving the cable to using it.<br /><br />I use this on a daily basis to connect my laptop to my HDTV and have not had any issues with the cable.",
-        "hover_star_count": 5,
-        "x": 0.03993895649909973,
-        "y": 0.3219444751739502,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "jumpy-viridian-uguisu"
-    },
-    {
-        "hover_review_headline": "it works.",
-        "hover_review_body": "What can I say... It does is job. Use it for my definitive technology sub and haven't had a problem.",
-        "hover_star_count": 5,
-        "x": 0.021887874230742455,
-        "y": 0.3907124400138855,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "gimpy-ultramarine-cat"
-    },
-    {
-        "hover_review_headline": "have great sound; and were easy to sync with my ...",
-        "hover_review_body": "They fit well; have great sound; and were easy to sync with my phone, etc. Distance is `approx. 20 feet from unit before connection is lost. Did a &#34;test&#34; phone call to see if they could hear me, it worked fine. I'll know more when I get a regular phone call when I'm using them in a normal setting. For the price, you can' t beat the quality. I would recommend them.",
-        "hover_star_count": 5,
-        "x": -0.2773827314376831,
-        "y": -0.18308773636817932,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "crappy-carmine-beaver"
-    },
-    {
-        "hover_review_headline": "Great Sound",
-        "hover_review_body": "The only things that I have to say about these speakers is that I did not care for running wire outside of the house.  These speakers are not super loud.  They do however create a nice atmosphere for sitting outdoors reading or entertaining.  They are really nice because you don't have to bring them in for the winter.",
-        "hover_star_count": 4,
-        "x": -0.3507755696773529,
-        "y": -0.2880283296108246,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "hazy-lime-antelope"
-    },
-    {
-        "hover_review_headline": "fantastic buy",
-        "hover_review_body": "I have had this system for a few days now. My other system is a Sony Dream system. The differences between the Sony and the Denon are huge. It really isn't fair to compare the Denon to the Sony I guess. The Denon's sound is amazing. It really makes you feel like you are in the movie. It is a true surround experience. I have a room that is about 20 x 20, and the speakers do a great job. The sub is also pretty crisp and clear. I can turn the volume up as loud as I want without any distortion at all. (and I like my movies loud!) I highly recommend this system to anyone looking for a really unbelievable value.   The only negative I can say is that eventually I will upgrade the Subwoofer...it could be  a little crisper, but it is definately very adequate. It is probably 5 times better than the sub that came with my Sony system. I just really like crisp, clean bass that I can really feel. I do not feel at all that I need to be in a hurry to upgrade the sub...just someday when I have the extra money.  I really feel like I will be happy with this system for a long time.",
-        "hover_star_count": 5,
-        "x": -0.30894339084625244,
-        "y": 0.060455650091171265,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "tasty-mauve-tarsier"
-    },
-    {
-        "hover_review_headline": "easy to use and a joy to listen to\u001a\u001a\u001a\u001a\u001a\u001a",
-        "hover_review_body": "I chose this music system for my 89 year old mother who needed something easy to use, no drawers, no doors, no myriad of buttons and knobs.  The music quality is superb.  She is very happy, which is just what I wanted.",
-        "hover_star_count": 5,
-        "x": -0.24587145447731018,
-        "y": -0.018727703019976616,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "woozy-saffron-mandrill"
-    },
-    {
-        "hover_review_headline": "I do not recommend this item",
-        "hover_review_body": "Worked for just long enough so that I couldn't send it back.. Battery will no longer keep a charge after less than 2 months.  Will play for less than 20 minutes.  I do not recommend this item.",
-        "hover_star_count": 1,
-        "x": 0.10428447276353836,
-        "y": 0.19524089992046356,
-        "color": [
-            255,
-            0,
-            0
-        ],
-        "hover_review_name": "blurry-heliotrope-dalmatian"
-    },
-    {
-        "hover_review_headline": "Good Product",
-        "hover_review_body": "Good Product. It's easy to connect your iphone (Any model), ipod touch, ipad & your android phones. The good thing about it is it works even with your sky, oovoo & vonage 3g service.",
-        "hover_star_count": 4,
-        "x": 0.001607186859473586,
-        "y": 0.17719382047653198,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "pokey-purple-chin"
-    },
-    {
-        "hover_review_headline": "Appreciate it!",
-        "hover_review_body": "Plastic clasps at bottom of cover snapped off already, and product seal was already off around the bottom, second hand or returned product definitely made its way to my house. can't beat for the price but sure could do better for the price with the product condition before sending. Don't have to time to return and wait forever, so will have to give gift as is and just explain the condition, embarrassing. oh well, what can ya do right?",
+        "hover_review_headline": "partially works",
+        "hover_review_body": "I got this to switch between a PC (using the HDMI output on a 660 Ti) and a XBOX 360 to a DVI monitor (with a HDMI to DVI cable). This appears to work off of the power over HDMI and works just fine with the 360 but it does not work with the PC.<br />I do not recommend this if you plan on using it with a PC.",
         "hover_star_count": 2,
-        "x": 0.24338914453983307,
-        "y": -0.07761640846729279,
+        "x": -0.021180352196097374,
+        "y": 0.4975458085536957,
+        "z": 0.10477476567029953,
         "color": [
             200,
             0,
             0
         ],
-        "hover_review_name": "scaly-aqua-vole"
+        "hover_review_name": "cozy-aquamarine-duck"
     },
     {
-        "hover_review_headline": "Great for the price",
-        "hover_review_body": "I love the frequency response on these headphones, they're also pretty comfortable.  This is actually my second pair as I wanted to get one for home as well as at work.  The only thing is that since the cups don't go completely around my ears my ears will get sore after multiple hours of listening.  If you don't like a lot of bass response they may not be for you.  I even use them for some djing since they are so much more light/comfortable than \\\\\"real\\\\\" $150 sony dj headphones, and I got em for about $50.   <br /> <br />Another plus: the headphone cable is replaceable, which I can't say for $150 sony dj headphones.  After about 4-5 years of heavy use and accidentally stepping on the cable I finally broke the cable on my HD-212's, but was able to order a replacement cable from Sennheiser.  When the plug on my sony dj headphones broke, the headphones became useless.",
+        "hover_review_headline": "Works fine. Plugs super hard to get into the surge ...",
+        "hover_review_body": "Works fine.  Plugs super hard to get into the surge protector.  After calling Tarzan, I was able to get all the plug in.  Plug to outlet wall is at an angle which is a little weird.",
+        "hover_star_count": 3,
+        "x": 0.0841708853840828,
+        "y": 0.33098286390304565,
+        "z": -0.1555788666009903,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "hover_review_name": "snappy-russet-monster"
+    },
+    {
+        "hover_review_headline": "Impressed",
+        "hover_review_body": "First of all, I purchase from Amazon on a weekly (or more) basis. I write very few reviews. If a product does what it is suppose to do, why review it as something special. Saying that, there are a few products that are exceptional.  OK...down to business. I have a decent 5.1 audio system. Since my listening area (family room) is only 11' wide x 16' long with 8' ceilings, I can get by with bookshelf fronts & small surround speakers. All my speakers are Axiom Audio (M2s for the fronts, VP100 for the center and QS4 for the surrounds. I use a Mirage S8 sub. I have had this system for over 3 years. I started off with a Onkyo receiver and upgraded to a Marantz SR5006 about 2 years ago. The Marantz gave me a little wider and deeper sound stage over the Onkyo. It was also more detailed. To be honest, I was expecting more. By the way, even though the Emotiva is smaller than the Marantz, it weighs almost twice as much. It also runs a lot cooler.   I listen to most of my music from flac files on a thousand gig portable hard drive plugged (usb) into my Oppo blueray player. Quite a few of the files are high resolution (24 bit, 96htz & higher), some DVD 5.1 and some CD quality & vinyl.  After setting it up, I went to one of my \\\\\"test\\\\\" songs. It is a simple song with very little instramental from the Beatles (Here, There and Everywhere). The balance of the 5 speakers & sub were near perfect, the soundstage was wide & deep. The music was floating in the air, yet structured and the speakers seemed invisible....but....Lennon's lead voice was ...well...Lennon.  You could hear the texture and emotion in his voice. The backgound singing from McCartney & Harrison were also excellent. You could hear the indvidual and distinct voices harmonizing. The headroom was incredible. The sub was low, musical & tight. Everything from vocals to bass had a very clean and separated sound. The next three hours were a blur...listening from song to song was almost like hearing them for the first time. I paid $500 for this receiver (last time I looked it was down to $450). My Marantz was almost twice as much, however, IMO the Emotiva 8100 is twice the receiver. This is an exceptional product...especially for the cost.    PS~I also have my cable box running through the Emotiva and have no clicking sounds as described in some of the other reviews. However,  the first time with the cable, it did not have any audio & there was a message on the screen (from the Emotiva) stating just that. After making sure the connections were correct, I turned off everything, unplugged the cable box, plugged it back in and let it re-boot. Everything worked fine after that.",
         "hover_star_count": 5,
-        "x": -0.40208899974823,
-        "y": -0.16395649313926697,
+        "x": -0.23995907604694366,
+        "y": -0.2138749361038208,
+        "z": 0.396513432264328,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "blurry-zucchini-gibbon"
+        "hover_review_name": "hilly-lime-cassowary"
     },
     {
-        "hover_review_headline": "Great headphones!",
-        "hover_review_body": "I use these headphone while running and they're great. The sound is good and they never slip out of my ears or on my head.",
+        "hover_review_headline": "Defective",
+        "hover_review_body": "The cable I ordered was defective, but I was able to return it for a refund with no hassles. At least the customer service is good; you may have better luck with the product than I did.",
+        "hover_star_count": 3,
+        "x": -0.008597931824624538,
+        "y": 0.5203468203544617,
+        "z": -0.23004847764968872,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "hover_review_name": "slaphappy-cinnabar-flamingo"
+    },
+    {
+        "hover_review_headline": "Great HDMI",
+        "hover_review_body": "its at par with most HDMIs out there, the cable is kind of thin/wiggly, but for the price its great.",
         "hover_star_count": 5,
-        "x": -0.34367847442626953,
-        "y": -0.46477872133255005,
+        "x": -0.0775436982512474,
+        "y": 0.1751825362443924,
+        "z": 0.13144126534461975,
         "color": [
             0,
             255,
             0
         ],
-        "hover_review_name": "jumpy-cinnamon-caiman"
+        "hover_review_name": "sunny-gold-akbash"
+    },
+    {
+        "hover_review_headline": "Two Stars",
+        "hover_review_body": "RECEIVED IN TIMELY MANNER.  OUTPUT PIN INCORRECT SIZE",
+        "hover_star_count": 2,
+        "x": 0.46415936946868896,
+        "y": 0.12737762928009033,
+        "z": -0.06554099172353745,
+        "color": [
+            200,
+            0,
+            0
+        ],
+        "hover_review_name": "scummy-lilac-zonkey"
+    },
+    {
+        "hover_review_headline": "Good choice",
+        "hover_review_body": "Purchased this to replace my Razer BlackShark headset cord that went faulty in 3 weeks. Worked from the start and see no difference from the original equipment except this is way less expensive.  I do wish the ends were labeled so that I could quickly identify which is audio and which is mic (color deficient), but other than that this is a great product for little cost.",
+        "hover_star_count": 4,
+        "x": -0.24784880876541138,
+        "y": -0.03213673457503319,
+        "z": -0.26936405897140503,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "skimpy-auburn-moorhen"
+    },
+    {
+        "hover_review_headline": "Really good",
+        "hover_review_body": "I had really got them for how they look but there really nice and diffrent look from other headphones also very good bass",
+        "hover_star_count": 4,
+        "x": -0.226614847779274,
+        "y": -0.3968733251094818,
+        "z": -0.20737139880657196,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "snappy-magnolia-mule"
+    },
+    {
+        "hover_review_headline": "YOU PAY WHAT YOU GET FOR....",
+        "hover_review_body": "I bought the &#34;JLab JBuds Hi-Fi Noise-Reducing Ear Buds with Universal Microphone&#34;, for my son as a Christmas stocking stuffer.  I paid $6.49 for these.  It was one of Amazon's lightning deals .The right ear bud stopped working within two days.  I didn't want to bother sending it back because it probably would have cost the same amount to return.  I was very dissatisfied with this product..",
+        "hover_star_count": 1,
+        "x": -0.20227967202663422,
+        "y": -0.20150278508663177,
+        "z": -0.1421649158000946,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "homey-dandelion-elephant"
+    },
+    {
+        "hover_review_headline": "still cost a bit too much for me",
+        "hover_review_body": "When I first saw this item the description sounded exactly like what I wanted. I don't know much about headphones now, but I am learning here at Amazon. But I set a strict limit at $125.00 and I won't spend more than that.",
+        "hover_star_count": 4,
+        "x": -0.2870398163795471,
+        "y": -0.2651878297328949,
+        "z": -0.17659735679626465,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "boozy-razzmatazz-donkey"
+    },
+    {
+        "hover_review_headline": "Just what I was looking for!",
+        "hover_review_body": "Bought this case for my ATH M-50 Headset. The case fits perfect and offers great protection for my headset.<br /><br />Would recommend this case to anyone owning an ATH M-50. It fits other headsets as well, but I couldn't speak since I don't actually own other headset.",
+        "hover_star_count": 5,
+        "x": -0.20972877740859985,
+        "y": -0.17242735624313354,
+        "z": -0.18954679369926453,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "thirsty-saffron-eagle"
+    },
+    {
+        "hover_review_headline": "Great player....",
+        "hover_review_body": "I purchased this player with very high hopes. After reading all the reviews (there were more bad then good) I was a little skeptical about recieving my Rio player. When I recieved it I was blown away at how fast my music was transported onto the software and onto the player. It took no time at all but I was careful and I thought the instructions were very helpful. I am very satisified with my order. I was searching for and Mp3 player for a while and I decided to get this one. It barely weighs a thing and it fits in the palm of your hand. The belt clip and the arm band is definatly the plus. Every one was complaining about the headphones. I thought that they were nice and they worked really well. I decided to use my own pair only because they are headphones and not earphones. I have yet to try the fm radio. I have heard that it is bad but we'll see. I didn't buy this Mp3 player for the radio, I bought it for the use of the Mp3. I definatly would recommend this product to anyone. I didn't give this 5 stars because I don't believe that any product is that perfect but I have yet to find a problem.",
+        "hover_star_count": 4,
+        "x": -0.23747879266738892,
+        "y": -0.20865491032600403,
+        "z": -0.14275744557380676,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "lousy-malachite-bandicoot"
+    },
+    {
+        "hover_review_headline": "Finally something that works",
+        "hover_review_body": "bought several of this type of switch...this one was the only one<br />compatible with my system. It recognizes everything and I am very<br />satisfied with it. A remote would have been nice but I was too cheap<br />to make that extra investment.",
+        "hover_star_count": 5,
+        "x": -0.08686268329620361,
+        "y": 0.5280007719993591,
+        "z": 0.22878414392471313,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "beady-amber-cuttlefish"
+    },
+    {
+        "hover_review_headline": "Five Stars",
+        "hover_review_body": "Terrific piece of equipment. I use it all the time",
+        "hover_star_count": 5,
+        "x": 0.47664856910705566,
+        "y": -0.13532231748104095,
+        "z": 0.0850953608751297,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "snappy-cerulean-mouse"
+    },
+    {
+        "hover_review_headline": "Three Stars",
+        "hover_review_body": "Not very sturdy, easy break. But I guess it's worth it for this price.",
+        "hover_star_count": 3,
+        "x": 0.525090754032135,
+        "y": -0.18282191455364227,
+        "z": 0.04508106783032417,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "hover_review_name": "fuzzy-blue-badger"
+    },
+    {
+        "hover_review_headline": "Be careful",
+        "hover_review_body": "This bulb takes a LONG time to reach its brightness. Disappointing...",
+        "hover_star_count": 2,
+        "x": 0.11571089178323746,
+        "y": 0.33869829773902893,
+        "z": -0.1469453126192093,
+        "color": [
+            200,
+            0,
+            0
+        ],
+        "hover_review_name": "flabby-olivine-gar"
+    },
+    {
+        "hover_review_headline": "RCA ANT1650- Great antenna",
+        "hover_review_body": "I really enjoy this antenna.  I can get about 20 channels pretty clear, just like watching from cable TV.  Attractive not ugly like rabbit ears.  Can be hidden behind TV and one big plus no monthly cost to watch TV.  Lets hope the cable companies do not decide to stop air broadcast of digital TV.  Its in the talk make sure you vote or voice your opinion if this happens in your state.  The only one issue I had with antenna TV is that it can get pix-elated if a vehicle or something interrupts the path of the signal which is not very often, usually only for several seconds or so.",
+        "hover_star_count": 5,
+        "x": -0.1062389463186264,
+        "y": 0.14925910532474518,
+        "z": 0.4138909876346588,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "snazzy-carmine-mist"
+    },
+    {
+        "hover_review_headline": "Just what I",
+        "hover_review_body": "This HDMI Switcher works extremely well.  My TV has only one HDMI and this allows me to basically have three HDMI products hooked up.  The remote works very well and was very easy to set up.  Good product.",
+        "hover_star_count": 5,
+        "x": 0.0247334111481905,
+        "y": 0.3862304091453552,
+        "z": 0.3697067201137543,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "cranky-copper-lemur"
+    },
+    {
+        "hover_review_headline": "Awesome",
+        "hover_review_body": "This is the first ipod I have had in a long time and it works so awesome! I would buy another just because its that great! Hope you guys get one two!!",
+        "hover_star_count": 5,
+        "x": -0.17940586805343628,
+        "y": -0.007218618877232075,
+        "z": -0.11613902449607849,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "sleepy-ochre-tang"
+    },
+    {
+        "hover_review_headline": "Five Stars",
+        "hover_review_body": "Strong and loud !",
+        "hover_star_count": 5,
+        "x": 0.5125251412391663,
+        "y": -0.339927077293396,
+        "z": 0.06370553374290466,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "skimpy-pumpkin-gecko"
+    },
+    {
+        "hover_review_headline": "Burnt out less than 1 month",
+        "hover_review_body": "Shouldve went with my gut here and not bought this but did. It's been less than 1 month and already burnt out. Well see how customer service is on replacing.",
+        "hover_star_count": 1,
+        "x": -0.05622502788901329,
+        "y": 0.32147374749183655,
+        "z": -0.11368109285831451,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "scanty-purple-cattle"
+    },
+    {
+        "hover_review_headline": "I had an rca mp3 player that worked great, will never buy this one again",
+        "hover_review_body": "well if it worked it might be ok. I bought this product with the advertisement of being com patable with audible, (nope). false advertisement! then I downloaded off of you tube and converted to mp3 and it worked for 35 minutes. then said manufacture error. over and over piece of junk. would not buy this model again. I had an rca mp3 player that worked great, will never buy this one again.",
+        "hover_star_count": 1,
+        "x": -0.3137420415878296,
+        "y": 0.194111168384552,
+        "z": -0.02693331614136696,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "surly-plum-baboon"
+    },
+    {
+        "hover_review_headline": "Garbage",
+        "hover_review_body": "Do not waste your money on this. Within only 3 days the cd player no longer worked. After 5 days the speakers were shot. I bought it for the portable vertical cd player since space is an issue.(I listen to books on cd and cannot wear a portable device where I work) and there weren't many choices available so I went for the 'name brand' I got screwed. A total waste of money and time.",
+        "hover_star_count": 1,
+        "x": -0.260134220123291,
+        "y": -0.03765201196074486,
+        "z": -0.10975954681634903,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "cranky-blue-alligator"
+    },
+    {
+        "hover_review_headline": "Works well for the money, no complaints.",
+        "hover_review_body": "Good picture and sound quality(and yes, I'm well aware that there is almost no difference between cables), looks solidly made, no issues to speak of. I have no idea if it will work for the ethernet or 3D, because I'm not using it for that. Just wanted something a step above the cable that came with my TV.",
+        "hover_star_count": 4,
+        "x": -0.09908797591924667,
+        "y": 0.14500664174556732,
+        "z": 0.022759610787034035,
+        "color": [
+            0,
+            200,
+            0
+        ],
+        "hover_review_name": "muzzy-chartreuse-cattle"
+    },
+    {
+        "hover_review_headline": "Five Stars",
+        "hover_review_body": "good job",
+        "hover_star_count": 5,
+        "x": 0.6536012887954712,
+        "y": -0.14119777083396912,
+        "z": -0.09525708109140396,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "whiny-ochre-frise"
+    },
+    {
+        "hover_review_headline": "Horrible!!!",
+        "hover_review_body": "My product came damaged and just to day i got my money back after along tired wait with no answer's on anything dont buy it if you do dont get it from skybox they are crap i said i wanted a new one they gave me my money back and i lost 117.00 for shipping it took over a month and a half to get and answer on my product !!! i am not happy so to ever one that like's this product it is nice but skybox is crap!!!!!",
+        "hover_star_count": 1,
+        "x": -0.018508385866880417,
+        "y": 0.2209450751543045,
+        "z": -0.11256810277700424,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "hover_review_name": "tasty-silver-foxhound"
+    },
+    {
+        "hover_review_headline": "Look nice, OK design and manufacturing quality",
+        "hover_review_body": "The stands look nice. Most pieces are easily put together. Multiple hardware options are included, like both carpet spikes and floor pads. Manufacturing quality is what I've come to expect from most moderately-priced things these days. Some holes aren't positioned as precisely as they should be, so a couple pieces don't line up quite right.<br /><br />The stands fall short on cable management. I think the designer expects everyone to use a very thin speaker wire without banana plugs or other convenience cable ends. The cable hole in the top plate is not much wider than a pencil. The hole in the bottom plate is better. The cable covers that run down the back are a pain. They are semi-rigid plastic strips that you bend to fit into slots. Installation is possible once you figure out a good method, but the design should be rethought. The designer was clearly trying to make the backs match the rounded fronts, which seems less important than simple installation.",
+        "hover_star_count": 3,
+        "x": -0.18293429911136627,
+        "y": -0.07314779609441757,
+        "z": 0.018009476363658905,
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "hover_review_name": "geeky-crimson-koala"
     },
     {
         "hover_review_headline": "Four Stars",
-        "hover_review_body": "working great",
+        "hover_review_body": "For the price point these are fine. Great for the kids and I don't have to worry about them.",
         "hover_star_count": 4,
-        "x": 0.5541369318962097,
-        "y": -0.23629742860794067,
+        "x": 0.5436217784881592,
+        "y": -0.22401292622089386,
+        "z": -0.030414314940571785,
         "color": [
             0,
             200,
             0
         ],
-        "hover_review_name": "shaggy-copper-dollar"
+        "hover_review_name": "fuzzy-silver-chinook"
     },
     {
-        "hover_review_headline": "This really does work.",
-        "hover_review_body": "We put a 2nd story on our home and had all the rooms cable meet in the attic into an 8-way (-11db) splitter.  Needless to say, the TV images were snowy and ghostly. I did not follow their recommendations, rather I had the incoming house cable go to a 3-way splitter (-3, -3).  I went from one -3 directly to the Internet Cable Modem, the other directly to the Motorola Device.  The Motorola is +15, offsetting the first -3 and the -11 (total -14db).  Internet is great, and the TV reception is crystall clear everywhere with a +1 to every set.  I would favorably recommend this product. <br />",
-        "hover_star_count": 5,
-        "x": 0.03629777953028679,
-        "y": 0.3640765845775604,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "goopy-lilac-flounder"
-    },
-    {
-        "hover_review_headline": "Poor Quality",
-        "hover_review_body": "Item is poorly made.  Low gauge wire and plastic covers over RCA ends slide back when you disconnect them.  Would not buy again.",
+        "hover_review_headline": "don't waste your time or money!",
+        "hover_review_body": "I listen to a lot of AM radio and weather radio, because at this stage of my life with limited mobility, I looked at it because of it's size and all the features it has and all the 5 star ratings and decided to purchase. I am on my THIRD radio!, ever have a AM radio that drifts away from the station you set it on?, well I have one now. I won't send this one back because I get back one that is just as bad or worse! I will be fair to Eton, the FM, weather band and flashlight all work, but, I have my fingers crossed! Eton, I will NEVER purchase any of your products ever again! I wish I had never wasted my money on this \\\\\"semi\\\\\" junk!",
         "hover_star_count": 1,
-        "x": -0.08014731109142303,
-        "y": 0.10978677123785019,
+        "x": -0.13743723928928375,
+        "y": 0.020390279591083527,
+        "z": 0.044738516211509705,
         "color": [
             255,
             0,
             0
         ],
-        "hover_review_name": "hilly-khaki-gorilla"
+        "hover_review_name": "foggy-jade-chinchilla"
     },
     {
-        "hover_review_headline": "For some reason I thought this was going to be ...",
-        "hover_review_body": "For some reason I thought this was going to be larger but it is quite small.  Other than that it's alright",
+        "hover_review_headline": "Yay!",
+        "hover_review_body": "Exactly what I needed",
+        "hover_star_count": 5,
+        "x": 0.14711473882198334,
+        "y": 0.1124812588095665,
+        "z": -0.034548450261354446,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "hover_review_name": "sleazy-malachite-gar"
+    },
+    {
+        "hover_review_headline": "Very good",
+        "hover_review_body": "Very good",
         "hover_star_count": 4,
-        "x": 0.0675545334815979,
-        "y": -0.026048535481095314,
+        "x": 0.15406474471092224,
+        "y": -0.07646743953227997,
+        "z": -0.14677295088768005,
         "color": [
             0,
             200,
             0
         ],
-        "hover_review_name": "leaky-ultramarine-slug"
-    },
-    {
-        "hover_review_headline": "The perfect gadget!",
-        "hover_review_body": "Received my Satechi BT Wireless Bluetooth Portable Speaker System in good condition and in a timely fashion.    I am extremely happy with the product.  It exceeds my expectations, and I already recommended it to several of my friends.  The sound is so fantastic that it borders on the unbelievable.  Such a small unit with such great sound appears to be a magic trick...but the thing is real!  I will never have to take any other speaker system along when I stay in a hotel room or when doing a presentation where I need to play an audio clip.  In addition, the speaker phone feature works very well without distortion.    Some reviewers have commented on the somewhat odd use of the buttons (to adjust volume, etc.).  After a few minutes, I had it all figured out.  The integrated buttons keep the unit very sleek, so I had no issues with a little learning curve.    I would highly recommend this product to anyone!",
-        "hover_star_count": 5,
-        "x": -0.25795629620552063,
-        "y": 0.08987808227539062,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "gamy-brown-whale"
-    },
-    {
-        "hover_review_headline": "Great customer service!",
-        "hover_review_body": "I love these earbuds, but lost one of the rubber covers.  Couldn't find decent replacements anywhere.  Klipsch sells replacements on their website, but didn't have the size I needed in stock.  I contacted their customer service department to inquire where I could purchase the replacements in my size and the person I spoke with said that he would just mail me replacement covers without charge.  True to his word, I received them within a week and he even followed up by e-mail.  I was very impressed.  That simple courtesy creates lasting brand loyalty.",
-        "hover_star_count": 4,
-        "x": -0.04599703475832939,
-        "y": -0.38406500220298767,
-        "color": [
-            0,
-            200,
-            0
-        ],
-        "hover_review_name": "woozy-carmine-yak"
-    },
-    {
-        "hover_review_headline": "Five Stars",
-        "hover_review_body": "great",
-        "hover_star_count": 5,
-        "x": 0.6753015518188477,
-        "y": -0.3604239523410797,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "slimy-cream-chinook"
-    },
-    {
-        "hover_review_headline": "great for the price, but not perfect",
-        "hover_review_body": "I have had these portable speakers for about 6 months now.  I use them with my computer and with an iRiver H320 player when I am traveling.<br /><br />First the PROS:  Compact, cool looking speakers which come with their own little carry bag and fit into lots of small spaces. Plastic connectors allow both speakers to fit together as a single unit when stored, great for travelling and speaker protection.  A USB cord allows you to bypass the batteries required to run the amp... highly convenient when you have your computer.  Nice little pop out stands which stem from the same connectors which keep the speakers together during transport. Suitable amplification circuit (read the cons below!), can produce sufficient volume for indoor listening.  Battery life from 4 AAA's is acceptable, I usually would run about 8 hours at a time and then turn them off.  They would run 2 sessions (16 hours total) under these conditions so that seems pretty good.  Great price and it comes with all the connectors.<br /><br />Now the CONS:  Despite the cool looks these are NOT electrostatic.  It is a little speaker set up under what is no doubt a highly engineered acoustic radiator material and box... just don't let the sun shine thru it.. you will see how simple it appears.  This type of system produces the biggest CON.  Sound quality is acceptable until you have some bass at moderate volumes.  Almost any bass at all, causes that acoustic radiator panel to RATTLE. You can definitely hear it.  This is why this is an indoor speaker.  At indoor personal listening volumes everything is fine.  Want to crank it?  This is not the speaker for you.  Another con is the battery insertion procedure which requires you to learn that you do not just insert batteries but rather have to form a \\\\\"tent\\\\\" with all the batteries positioned just right and then push down the cover.  Silly and took some time to learn. The plastic casing does feel flimsy and the speaker connectors/stands might feel like they could break at any time.  (Mine have not, I am careful).  The plug in for the AC (or USB cable) does not plug in all the way or in a truly positive fashion.<br /><br />Alright so there are a lot of cons.  Don't let that deter you.  For the price this is a cool little speaker, which despite my observations I have enjoyed over many months.  It is light and compact, surviving travel.<br /><br />For the makers of this speaker here are the suggestions.  Make an upgraded model at higher cost... put some real electrostatics in the upgrade!  Use higher quality materials (metal?). I assure you the market will bear it.  I just bought a Virgin Electronics boomtube for a marked down $50 (retail was $100...heavier with metal construction and more expensive, but REALLY cool--good luck finding the EX model with the subwoofer though--Virgin was selling these, and at $200 the EX, by all accounts is a a great speaker--I wish I could find one--but it is not for travelling with the weight).<br /><br />For this model, fix the battery case and insertion.  Make the AC connector a positive fit.  Change the color of the front panel to an opaque black or gray material.... really, do you want your customers to know that there is a little tiny cheap speaker inside these things when they set them up and light shines thru them?  Fix the bass rattle at higher volumes.<br /><br />Bottom line.  Try them.  Nice little speaker for the price! I think you will like them... just not if you listen to bass heavy music!ould break at any time.  (Mine have not, I am careful).  The plug in for the AC (or USB cable) does not plug in all the way or in a truly positive fashion. <br /> <br />Alright so there are a lot of cons.  Don't let that deter you.  For the price this is a cool little speaker, which despite my observations I have enjoyed over many months.  It is light and compact, surviving travel. <br /> <br />For the makers of this speaker here are the suggestions.  Make an upgraded model at higher cost... put some real electrostatics in the upgrade!  Use higher quality materials (metal?). I assure you the market will bear it.  I just bought a Virgin Electronics boomtube for a marked down $50 (retail was $100...heavier with metal construction and more expensive, but REALLY cool--good luck finding the EX model with the subwoofer though--Virgin was selling these, and at $200 the EX, by all accounts is a a great speaker--I wish I could find one--but it is not for travelling with the weight).  <br /> <br />For this model, fix the battery case and insertion.  Make the AC connector a positive fit.  Change the color of the front panel to an opaque black or gray material.... really, do you want your customers to know that there is a little tiny cheap speaker inside these things when they set them up and light shines thru them?  Fix the bass rattle at higher volumes.  <br /> <br />Bottom line.  Try them.  Nice little speaker for the price! I think you will like them... just not if you listen to bass heavy music!",
-        "hover_star_count": 3,
-        "x": -0.3263433575630188,
-        "y": -0.08235208690166473,
-        "color": [
-            200,
-            200,
-            200
-        ],
-        "hover_review_name": "pokey-gold-bongo"
-    },
-    {
-        "hover_review_headline": "Five Stars",
-        "hover_review_body": "They are really cool my nephew loves them and the sound is great",
-        "hover_star_count": 5,
-        "x": 0.17675676941871643,
-        "y": -0.4747179448604584,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "jumpy-lime-whippet"
-    },
-    {
-        "hover_review_headline": "Stylish, more portable cable that sounds great.",
-        "hover_review_body": "I bought this cabe for my Sennheiser HD598 headphones so that I could have a shorter and more portable cable for my headphones. Also, this cord terminates in a regular 3.5mm plug rather than the larger 1/4&#34; plug that is more suited for home use. This cable is very stylish and is constructed using top-notch materials, and it sounds fantastic. Overall I'm quite pleased with the purchase and would recommend it to any looking for a more portable cable solution for their headphones.",
-        "hover_star_count": 5,
-        "x": -0.3476656973361969,
-        "y": -0.11978118866682053,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "hazy-coral-reindeer"
-    },
-    {
-        "hover_review_headline": "Sony Walkman",
-        "hover_review_body": "This is a great product.  I use it in multiple activies and have been very pleased with the results.  Whether I'm walking the dog or working out at the YMCA, it gives great sound and is the most secure player I have ever had.  The handle makes it impossible for the dog to pull it from me.",
-        "hover_star_count": 5,
-        "x": -0.20339997112751007,
-        "y": -0.0024397531524300575,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "skanky-ochre-hippopotamus"
-    },
-    {
-        "hover_review_headline": "perfect sound!!",
-        "hover_review_body": "I Installed 6 of these speakers on mexican restaurant including patio and noisy kitchen,using a small 70V Crown amp.with 30W max and owners love it, they are not bad for the price,especially if you are using for background music I would recommend it to anybody.",
-        "hover_star_count": 5,
-        "x": -0.2743791937828064,
-        "y": -0.11399172246456146,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "dorky-platinum-discus"
-    },
-    {
-        "hover_review_headline": "Works great in my attic",
-        "hover_review_body": "My home had an old antenna in the attic that just couldn't pick up the digital signals (on a good day we could get two or three), I purchased this and simply hooked it up to the existing coax cable up in the attic and the reception is amazing, I didn't even know there were over 30 channels available in our area!",
-        "hover_star_count": 5,
-        "x": 0.0237096156924963,
-        "y": 0.2528909742832184,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "shaky-crimson-dog"
-    },
-    {
-        "hover_review_headline": "Junk",
-        "hover_review_body": "It works..sort of. It's cheaply made, no power button and the image quality is quite poor. It does allow you to hook up a device that doesn't have an HDMI port (such as a Wii) to an HD TV via HDMI but the video quality is actually a step down from what you'd get just hooking the Wii up via Component Video Cables. Granted the quality shouldn't be any better but it shouldn't be worse. The colors are muted, the image quality is extremely soft to the point of being somewhat blurry and you can even notice a slight warping of the display during motion.    Don't buy, there are other, much better options available. You just may have to pay a bit more.",
-        "hover_star_count": 1,
-        "x": 0.10515101999044418,
-        "y": 0.5033454895019531,
-        "color": [
-            255,
-            0,
-            0
-        ],
-        "hover_review_name": "nerdy-ochre-mule"
-    },
-    {
-        "hover_review_headline": "You get one of two bad ones but overall good value",
-        "hover_review_body": "Works as usual. You get one of two bad ones but overall good value.",
-        "hover_star_count": 5,
-        "x": 0.18051758408546448,
-        "y": -0.013312012888491154,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "beady-bronze-deer"
-    },
-    {
-        "hover_review_headline": "Great Single CD Player",
-        "hover_review_body": "Very nice single CD player.  Nice sound easy to operate.",
-        "hover_star_count": 5,
-        "x": -0.10608923435211182,
-        "y": -0.04859064146876335,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "sloppy-bistre-hippopotamus"
-    },
-    {
-        "hover_review_headline": "Good quality...",
-        "hover_review_body": "...and does its job perfectly.  I might see if I can find some other good uses for it to get more millage from the purchase.",
-        "hover_star_count": 5,
-        "x": 0.12205947190523148,
-        "y": 0.01312633790075779,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "snoopy-ecru-lizard"
-    },
-    {
-        "hover_review_headline": "Great",
-        "hover_review_body": "This is my second Wave system.  It is wonderful.  I liked the limited edition color too.  I also purchased the Bose dock for my iphone.  It works wonderful with the system.",
-        "hover_star_count": 5,
-        "x": -0.15081092715263367,
-        "y": 0.11185917258262634,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "chewy-harlequin-fox"
-    },
-    {
-        "hover_review_headline": "Five Stars",
-        "hover_review_body": "Absolutely love all of mine. :)",
-        "hover_star_count": 5,
-        "x": 0.5839595794677734,
-        "y": -0.4074338674545288,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "flimsy-thistle-termite"
-    },
-    {
-        "hover_review_headline": "Five Stars",
-        "hover_review_body": "It's a coaxial cable, arrived promptly, and it works.",
-        "hover_star_count": 5,
-        "x": 0.2860031723976135,
-        "y": 0.17729352414608002,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "grumpy-russet-rabbit"
-    },
-    {
-        "hover_review_headline": "Very useful",
-        "hover_review_body": "I'm using this one with my Garmin GPSMap 60Csx and Motorola Razr V3x. It works flawlessly with both of them. I don't use it with my iPod because my JVC car audio system has iPod integration kit, but I know that it works with iPod also.",
-        "hover_star_count": 5,
-        "x": -0.11507996171712875,
-        "y": 0.13414216041564941,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "crabby-teal-sponge"
-    },
-    {
-        "hover_review_headline": "COLTS 4 LIFE",
-        "hover_review_body": "When I received I took them out right away and tried them on. They are excellent the sound is good. Its true they dont cover your ears completely  I would say 90% is covered. But once I turned the phone volume plus the volume on the wire I could not here anything else. So they are loud. I would recommend a better aux cable as its common for the Aux cable not to be a quality cable. But other than that I love them.",
-        "hover_star_count": 5,
-        "x": -0.2886311113834381,
-        "y": -0.3623230457305908,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "cranky-tomato-mandrill"
-    },
-    {
-        "hover_review_headline": "High quality, thin, and reliable",
-        "hover_review_body": "Glad I bought this! not your average RCA cables and iphone friendly! I would buy it again any day. The length was also great... just right!",
-        "hover_star_count": 5,
-        "x": -0.19301126897335052,
-        "y": 0.021681521087884903,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "tasty-corn-bird"
-    },
-    {
-        "hover_review_headline": "reply to",
-        "hover_review_body": "best rechargeable lithium batteries and charger I have ever owned and has saved me almost 10$ for two batteries every other week would highly recommend to others",
-        "hover_star_count": 5,
-        "x": 0.061492811888456345,
-        "y": -0.08269833773374557,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "woolly-buff-mau"
-    },
-    {
-        "hover_review_headline": "Software doesn't work",
-        "hover_review_body": "We did a lot of research before buying this and saw that a few people had trouble with the software, but didn't hear it from others.  Well, we can't get it to work at all, and there's no custoemr support available from Creative since you can never get through on their 800 number - and it took 20 minutes to even find a phone number, it's extremely well hidden.  Terrible disappointment!",
-        "hover_star_count": 1,
-        "x": 0.13795118033885956,
-        "y": 0.28493785858154297,
-        "color": [
-            255,
-            0,
-            0
-        ],
-        "hover_review_name": "squeaky-copper-chameleon"
-    },
-    {
-        "hover_review_headline": "Took my 4 remotes and made them 1 easy to use remote.",
-        "hover_review_body": "Use this for all my devices (TV, Blu-Ray, Sound Bar and Cable box). Easy to learn and it is compatible with basically everything. If you want to de-clutter your remotes, it's hard to go wrong with this.",
-        "hover_star_count": 5,
-        "x": 0.03393800929188728,
-        "y": 0.30986443161964417,
-        "color": [
-            0,
-            255,
-            0
-        ],
-        "hover_review_name": "freaky-lime-fish"
+        "hover_review_name": "woolly-teal-owl"
     }
 ]
+   
+
+
+// function selected() {
+//     makeplot()
+// }
+
+// function makeplot() {
+//     Plotly.d3.csv('CSV FILE',
+//     function(data){ processData(data) });
+// }
+
+// var layout = {
+//   autosize: true,
+//   width: 800,
+//   height: 800,
+//   xaxis:
+//        {title: {text: "ID"}},
+//   yaxis:
+//        {title: {text: "manual_interactions"}}
+// }
+
+// function processData(allRows) {
+//   console.log(allRows);
+//   var x = [], y = [], colour = [];
+//   var xaxis = $("#dataBtn").val()
+//   var yaxis = $("#dataBtn2").val()
+//   var colaxis = $("#dataBtn3").val()
+
+//   for (var i=0; i<allRows.length; i++) {
+//        row = allRows[i];
+//        x.push( row[xaxis] );
+//        y.push( row[yaxis] );
+//        colour.push( getColour(row[colaxis]) );
+//   }
+//   console.log( 'X',x, 'Y',y, 'colour', colour);
+//   makePlotly( x, y, colour, layout );
+// }
+
+// function rand_colour () {
+//    var r = Math.random()*255;
+//    var g = Math.random()*255;
+//    var b = Math.random()*255;
+//    return 'rgb('+r+','+g+','+b+')'
+// }
+
+// var colour_map = {}
+
+// function getColour(project) {
+//    console.log(colour_map)
+//    if (project in colour_map) {return colour_map[project]}
+//        colour_map[project] = rand_colour();
+//        console.log(colour_map[project]);
+//        return colour_map[project]
+// }
+
+// function makePlotly( x, y, colour, layout){
+//    var traces = [{
+//        x: x,
+//        y: y,
+//        type: "scatter",
+//        mode: "markers",
+//        marker: {
+//                 color: colour,
+//                 width: 2
+//                }
+//     }];
+//     Plotly.react('chart', traces, layout, {displayModeBar: true});
+// }
+
+// makeplot();
