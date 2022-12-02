@@ -122,7 +122,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 24px 0 8px;;
+    padding: 0 24px 0 8px;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .keyword {
@@ -146,6 +148,7 @@
 .productDescription {
     list-style-type: disc;
     padding: 0 8px 0 30px;
+    text-align: left;
 }
 
 .descriptionText {

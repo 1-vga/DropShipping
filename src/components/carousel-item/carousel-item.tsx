@@ -1,19 +1,19 @@
 import React from "react";
+import { RankingsProductList } from "../../pages/main/types";
 import styles from './carousel-item.module.css';
-import itemIcon from './itemImg.png';
 
 interface Props {
-    rank: string
+    item: RankingsProductList
 }
 
-const CarouselItem: React.FC<Props> = ({ rank }) => {
+const CarouselItem: React.FC<Props> = ({ item }) => {
 
 
     return (
         <div className={styles.carouselItem}>
             <div className={styles.content}>
-                <img src={itemIcon} alt="item-icon" />
-                <div className={styles.rank}>{rank}</div>
+                <img src={item.product_image_url} alt="item-icon" />
+                <div className={styles.rank}>#{item.product_rank}</div>
             </div>
         </div>
     );
