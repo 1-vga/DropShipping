@@ -12,18 +12,18 @@ interface Props {
 const Main: React.FC<Props> = (props) => {
     const [data, setData] = useState<Root | null>(null);
     useEffect(() => {
-        // fetch('http://ec2-34-230-59-218.compute-1.amazonaws.com:8080/data/?product_name=hand%20warmers',
-        // {
-        //     method: 'GET', // *GET, POST, PUT, DELETE, etc.
-        //     headers: {
-        //       'Access-Control-Allow-Origin': '*'
-        //     },
-        //   }
-        // )
-        // .then(response => response.json())
-        // .then(data => {
-        //     console.log('data', data);
-        // });
+        fetch('http://ec2-34-230-59-218.compute-1.amazonaws.com:8080/data/?product_name=hand%20warmers',
+        {
+            method: 'GET',
+            headers: {
+              'Access-Control-Allow-Origin': '*'
+            },
+          }
+        )
+        .then(response => response.json())
+        .then(data => {
+            console.log('data', data);
+        });
 
         if(responseData) {
             setData(responseData);
