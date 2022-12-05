@@ -9,26 +9,30 @@ interface Props {
     product: RelatedProductList
 }
 
-const Product: React.FC<Props> = ({product}) => {
+const Product: React.FC<Props> = ({ product }) => {
     return (
+
         <div className={styles.product}>
-            <div className={styles.display}>
-                <img src={product.product_image_url} alt="product_img" />
-            </div>
-            <div className={styles.description}>
-                <div className={styles.descriptionTop}>
-                    <div className={styles.rating}><StarRating rating={product.star_count} /></div>
-                    <div className={styles.review}>{product.review_count}</div>
+            <a href={product.product_purchase_link} target='_blank'>
+                <div className={styles.display}>
+                    <img src={product.product_image_url} alt="product_img" />
                 </div>
-                <div className={styles.descriptionBottom}>
-                    <div className={styles.price}>{product.product_price}</div>
-                    {product.is_prime && <div className={styles.logo}>
-                        <img src={logo} alt="company" />
-                     </div>
-                    }
+                <div className={styles.description}>
+                    <div className={styles.descriptionTop}>
+                        <div className={styles.rating}><StarRating rating={product.star_count} /></div>
+                        <div className={styles.review}>{product.review_count}</div>
+                    </div>
+                    <div className={styles.descriptionBottom}>
+                        <div className={styles.price}>{product.product_price}</div>
+                        {product.is_prime && <div className={styles.logo}>
+                            <img src={logo} alt="company" />
+                        </div>
+                        }
+                    </div>
                 </div>
-            </div>
+            </a>
         </div>
+
     );
 };
 

@@ -32,3 +32,20 @@
 .imgWrapper img{
     width: 100%;
 }
+
+@media(min-width: 650px) {
+    .button {
+        height: 50px;
+    }
+
+    .text {
+        font-size: 24px;
+    }
+
+    .imgWrapper {
+        width: 80px;
+
+        top: 43%;
+        left: 52%; 
+    }
+}

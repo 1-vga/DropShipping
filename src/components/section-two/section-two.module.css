@@ -35,3 +35,64 @@
     line-height: 1;
     font-size: 45px;
 }
+
+.buttonWrapper {
+    display: none;
+}
+
+@media(min-width: 650px) {
+    .sectionTwo {
+        max-width: 100%;
+        background: transparent;
+        border-radius: 0;
+        padding: 0 16px;
+        margin-bottom: 32px;
+    }
+
+    .scatterContainer {
+        border: 2px solid #F8F8F8;
+        height: 500px;
+        border-radius: 15px;
+        overflow: hidden;
+    }
+
+    .desktopContainer {
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .buttonWrapper {
+        display: block;
+        width: 100%;
+        max-width: 230px;
+    }
+
+    .info {
+        width: 100%;
+        max-width: 60%;
+        border-radius: 15px;
+    }
+
+    .info i {
+        line-height: 1;
+        font-size: 32px;
+    }
+
+    .scatterContainer {
+        margin-bottom: 24px;
+        border-radius: 15px;
+    }
+}
+
+@media(min-width: 950px) {
+    .buttonWrapper {
+        max-width: 300px;
+    }
+
+    .info i {
+        margin-top: 16px;
+        font-size: 42px;
+    }
+}

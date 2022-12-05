@@ -12,7 +12,7 @@ const Header: React.FC<Props> = ({ elementInView }) => {
 
     useEffect(() => {
         const keyHandler = (event: KeyboardEvent) => {
-            event.key === "Enter"&& handleSearch();
+            event.key === "Enter" && handleSearch();
         }
 
         inputRef.current?.addEventListener("keypress", keyHandler);
@@ -24,7 +24,7 @@ const Header: React.FC<Props> = ({ elementInView }) => {
     }
 
     const handleSearch = () => {
-       window.location.href = `http://ec2-34-230-59-218.compute-1.amazonaws.com:8080/data/?product_name=${inputRef.current!.value}`;
+        window.location.href = `http://ec2-34-230-59-218.compute-1.amazonaws.com:8080/data/?product_name=${inputRef.current!.value}`;
     }
 
     return (

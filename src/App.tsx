@@ -14,7 +14,7 @@ function App() {
     const headerHeight = +window.getComputedStyle(header).height.split('px')[0];
 
     const handleScroll = () => {
-    const isViewed = wasScrolled(domElement, {offset: window.innerHeight - headerHeight});
+      const isViewed = wasScrolled(domElement, { offset: window.innerHeight - headerHeight });
       setElementInView(isViewed);
     };
 

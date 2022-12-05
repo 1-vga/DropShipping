@@ -2,6 +2,7 @@ import React, { useMemo } from "react";
 import { makeBold } from "../../utils";
 import styles from './review.module.css';
 import ReactHtmlParser from 'react-html-parser';
+import classNames from "classnames";
 
 interface Props {
     text: string | undefined;
@@ -14,7 +15,7 @@ const Review: React.FC<Props> = ({ text, bold_index, star_count }) => {
         return makeBold(text!, bold_index) as string
     }, [text, bold_index])
     return (
-        <div className={styles.review}>
+        <div className={classNames(styles.review, {[styles.padding]: star_count})}>
             <p className={styles.text}>
                 <span>
                     {
@@ -22,7 +23,7 @@ const Review: React.FC<Props> = ({ text, bold_index, star_count }) => {
                     }
                 </span>
             </p>
-            {star_count && <div className={styles.count}>{star_count}</div>}
+            {star_count && <div className={styles.count}>{star_count}/5</div>}
         </div>
     );
 };

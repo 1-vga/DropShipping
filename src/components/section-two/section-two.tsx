@@ -5,6 +5,7 @@ import { review_data } from './data';
 import { StarRating } from "../star-rating";
 import { Root } from "../../pages/main/types";
 import ReactHtmlParser from 'react-html-parser';
+import { Button } from "../button";
 
 interface Props {
     data: Root | null
@@ -147,10 +148,17 @@ const SectionTwo: React.FC<Props> = ({ data }) => {
     return (
         <section className={styles.sectionTwo}>
             <div id='myDiv' className={styles.scatterContainer}></div>
-            <div className={styles.info}>
-                <h1 className={styles.title}>{hoveredInfo.hover_review_name}</h1>
-                <p className={styles.text}>{ReactHtmlParser(hoveredInfo.hover_review_body)}</p>
-                <StarRating rating={hoveredInfo.hover_star_count} />
+            <div className={styles.desktopContainer}>
+                <div className={styles.info}>
+                    <h1 className={styles.title}>{hoveredInfo.hover_review_name}</h1>
+                    <p className={styles.text}>{ReactHtmlParser(hoveredInfo.hover_review_body)}</p>
+                    <StarRating rating={hoveredInfo.hover_star_count} />
+                </div>
+                <div className={styles.buttonWrapper}>
+                    <a href={data?.product_purchase_link} target="_blank">
+                        <Button />
+                    </a>
+                </div>
             </div>
         </section>
     );

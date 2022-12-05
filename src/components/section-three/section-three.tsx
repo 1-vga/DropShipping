@@ -9,7 +9,7 @@ interface Props {
     data: Root | null
 }
 
-const SectionThree: React.FC<Props> = ({data}) => {
+const SectionThree: React.FC<Props> = ({ data }) => {
     return (
         <section className={styles.sectionThree}>
             <div className={styles.buttonWrapper}>
@@ -20,10 +20,10 @@ const SectionThree: React.FC<Props> = ({data}) => {
             <h1 className={styles.title}>Neutral Reviews</h1>
             {data?.neutral_review_list.map((review) => {
                 return <Review
-                text={review.review_text}
-                star_count={review.star_count}
-                bold_index={review.bold_index || []}
-            />
+                    text={review.review_text}
+                    star_count={review.star_count}
+                    bold_index={review.bold_index || []}
+                />
             })}
             <h2 className={styles.title2}>Related Products</h2>
             <div className={styles.products}>
