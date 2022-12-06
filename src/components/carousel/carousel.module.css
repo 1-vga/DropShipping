@@ -1,19 +1,20 @@
 .carousel {
-    padding-left: 0 8px;
-    margin-bottom: 18px;
+    margin-bottom: 36px;
 }
 
+.wrap {
+    display: flex !important;
+    justify-content: center;
+}
 
 @media(min-width: 500px) {
     .carousel {
-        padding: 0 12px;
         margin-bottom: 24px;
     }
 }
 
 @media(min-width: 850px) {
     .carousel {
-        padding: 0 16px;
         margin-bottom: 32px;
     }
 }

@@ -1,10 +1,11 @@
 .footer {
     width: 100%;
     padding: 32px;
-    background: linear-gradient(0deg, rgba(4,121,189,1) 0%, rgba(85,193,254,1) 100%);
+    background: linear-gradient(0deg, rgba(4, 121, 189, 1) 0%, rgba(85, 193, 254, 1) 100%);
 }
 
-.textTop, .textBottom {
+.textTop,
+.textBottom {
     color: white;
     font-size: 18px;
     font-weight: 600;
@@ -15,7 +16,9 @@
 }
 
 @media(min-width: 500px) {
-    .textTop, .textBottom {
+
+    .textTop,
+    .textBottom {
         font-size: 18px;
     }
 }

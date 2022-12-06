@@ -11,7 +11,15 @@ interface Props {
 }
 
 const SectionOne: React.FC<Props> = ({ data }) => {
-    console.log('data', data);
+    const handleScroll = () => {
+        const scatterBlock = document.getElementById('myDiv') as HTMLDivElement;
+        const header = document.getElementById('header') as HTMLHeadElement;
+        const headerHeight = +window.getComputedStyle(header).height.split('px')[0] + 15;
+
+        const y = scatterBlock.getBoundingClientRect().top + window.pageYOffset - headerHeight;
+        window.scrollTo({ top: y, behavior: 'smooth' });
+    }
+
     return (
         <section className={styles.sectionOne}>
             <div className={styles.desktopContainer}>
@@ -34,8 +42,10 @@ const SectionOne: React.FC<Props> = ({ data }) => {
                                     <div className={styles.starCount}>
                                         <StarRating rating={data?.product_star_count} />
                                     </div>
-                                    <div className={styles.arrow}>&#8735;</div>
-                                    <div className={styles.reviewCount}>{data?.product_review_count}</div>
+                                    <div className={styles.reviewContainer} onClick={handleScroll}>
+                                        <div className={styles.arrow}>&#8735;</div>
+                                        <div className={styles.reviewCount}>{data?.product_review_count}</div>
+                                    </div>
                                 </div>
                                 <div className={styles.priceContainer}>
                                     <div className={styles.productPrice}>
@@ -62,7 +72,9 @@ const SectionOne: React.FC<Props> = ({ data }) => {
                     </div>
                 </div>
             </div>
-            <Carousel list={data?.rankings_product_list} />
+            { /* @ts-ignore */}
+            <Carousel list={data?.related_product_list} />
+
             <ul id='elementInView' className={styles.productDescription}>
                 {data?.product_description}
             </ul>

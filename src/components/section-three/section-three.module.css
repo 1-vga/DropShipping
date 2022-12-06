@@ -12,58 +12,40 @@
     margin: 24px auto 38px auto;
 }
 
-.title, .title2 {
+.title,
+.title2 {
     margin-bottom: 24px;
     font-size: 24px;
-    background: linear-gradient(0deg, rgba(21,21,21,1) 0%, rgba(132,132,132,1) 100%);;
+    background: linear-gradient(0deg, rgba(21, 21, 21, 1) 0%, rgba(132, 132, 132, 1) 100%);
+    ;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .title2 {
-    background: linear-gradient(0deg, rgba(0,123,194,1) 0%, rgba(0,158,249,1) 99%, rgba(213,239,254,1) 100%);
+    background: linear-gradient(0deg, rgba(0, 123, 194, 1) 0%, rgba(0, 158, 249, 1) 99%, rgba(213, 239, 254, 1) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
-.products {
-    margin-bottom: 24px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2px;
-    justify-content: center;
-}
-
 @media(min-width: 500px) {
-    .title, .title2 {
+
+    .title,
+    .title2 {
         font-size: 32px;
-        margin-bottom: 32px;
-    }
-
-    .products {
-        gap: 4px;
-    }
-
-    .products {
         margin-bottom: 32px;
     }
 }
 
 @media(min-width: 650px) {
-    .title, .title2 {
+
+    .title,
+    .title2 {
         font-size: 36px;
         margin-bottom: 36px;
     }
-    
+
     .buttonWrapper {
         display: none;
-    }
-
-    .products {
-        gap: 10px;
-    }
-
-    .products {
-        margin-bottom: 48px;
     }
 }

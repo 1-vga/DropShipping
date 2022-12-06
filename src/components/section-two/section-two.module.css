@@ -19,12 +19,13 @@
 }
 
 .info {
-    background: linear-gradient(0deg, rgba(4,121,189,1) 0%, rgba(85,193,254,1) 100%);
+    background: linear-gradient(0deg, rgba(4, 121, 189, 1) 0%, rgba(85, 193, 254, 1) 100%);
     padding: 12px 8px;
     border-radius: 0 0 15px 15px;
 }
 
-.title, .text {
+.title,
+.text {
     color: white;
     font-size: 16px;
     font-weight: 600;
