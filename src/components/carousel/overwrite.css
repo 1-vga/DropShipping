@@ -1,84 +1,120 @@
 .one .slick-track {
-    width: 200px !important;
-    height: 200px !important;
+    height: 308px !important;
+    width: 300px !important;
 }
 
 .two .slick-track {
-    width: 320px !important;
+    width: 350px !important;
 }
 .two .slick-slide {
-    width: 150px !important;
-    height: 150px !important;
+    width: 170px !important;
+    height: 220px !important;
 }
 .two .slick-slide:not(:last-child) {
-    margin-right: 20px;
+    margin-right: 10px;
 }
-
+.isRelated.two .slick-slide {
+    height: 190px !important;
+}
 .three .slick-track {
-    width: 330px !important;
+    width: 370px !important;
 }
 .three .slick-slide {
-    width: 100px !important;
-    height: 100px !important;
+    width: 120px !important;
+    height: 180px !important;
 }
 .three .slick-slide:not(:last-child) {
-    margin-right: 15px;
+    margin-right: 5px;
 }
+.isRelated.three .slick-slide {
+    height: 140px !important;
+}
+
+.isRelated.many .slick-slide {
+    height: 115px !important;
+} 
 
 @media(min-width: 500px) {
     .one .slick-track {
-        width: 300px !important;
-        height: 300px !important;
+        width: 368px !important;
+        height: 370px !important;
     }
 
     .two .slick-track {
-        width: 425px !important;
+        width: 485px !important;
     }
     .two .slick-slide {
-        width: 200px !important;
-        height: 200px !important;
+        width: 230px !important;
+        height: 280px !important;
     }
+
+    .isRelated.two .slick-slide {
+        height: 240px !important;
+    }
+
     .two .slick-slide:not(:last-child) {
-        margin-right: 25px;
+        margin-right: 5px;
     }
 
     .three .slick-track {
-        width: 470px !important;
+        width: 460px !important;
     }
     .three .slick-slide {
         width: 150px !important;
-        height: 150px !important;
+        height: 215px !important;
+    }
+    .three .slick-slide:not(:last-child) {
+        margin-right: 5px;
+    }
+
+    .isRelated.three .slick-slide {
+        height: 172px !important;
+    }
+
+    .isRelated.many .slick-slide {
+        height: 142px !important;
+    } 
+}
+
+@media(min-width: 650px) {
+    .two .slick-track {
+        width: 610px !important;
+    }
+
+    .two .slick-slide {
+        width: 300px !important;
+        height: 360px !important;
+    }
+
+    .isRelated.two .slick-slide {
+        height: 305px !important;
+    }
+
+    .two .slick-slide:not(:last-child) {
+        margin-right: 10px;
+    }
+
+    .three .slick-track {
+        width: 620px !important;
+    }
+    .three .slick-slide {
+        width: 200px !important;
+        height: 260px !important;
     }
     .three .slick-slide:not(:last-child) {
         margin-right: 10px;
     }
+    .isRelated.three .slick-slide {
+        height: 215px !important;
+    }
+
+    .isRelated.many .slick-slide {
+        height: 170px !important;
+    } 
 }
 
-@media(min-width: 650px) {
-    .one .slick-track {
-        width: 400px !important;
-        height: 400px !important;
-    }
-
-    .two .slick-track {
-        width: 625px !important;
-    }
-    .two .slick-slide {
-        width: 300px !important;
-        height: 300px !important;
-    }
-    .two .slick-slide:not(:last-child) {
-        margin-right: 25px;
-    }
-
-    .three .slick-track {
-        width: 630px !important;
-    }
-    .three .slick-slide {
-        width: 200px !important;
-        height: 200px !important;
-    }
-    .three .slick-slide:not(:last-child) {
-        margin-right: 15px;
-    }
+@media(min-width: 950px) {
+    .isRelated.many .slick-slide {
+        height: 240px !important;
+    } 
 }

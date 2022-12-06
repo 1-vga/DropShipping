@@ -6,111 +6,326 @@
     padding: 15px;
 }
 
-.content {
+.contentTop {
     position: relative;
-    height: 100%;
+    display: flex;
+    justify-content: center;
 }
 
-.content img {
+.contentTop img {
     width: 100%;
-    height: 100%;
 }
 
 .rank {
     position: absolute;
     top: -5px;
     left: -5px;
-    height: 35px;
-    width: 35px;
+    height: 50px;
+    width: 50px;
     color: white;
-    border-radius: 5px;
-    background: linear-gradient(0deg, rgba(255,149,1,1) 0%, rgba(251,224,49,1) 100%);
+    border-radius: 10px;
+    background: linear-gradient(0deg, rgba(255, 149, 1, 1) 0%, rgba(251, 224, 49, 1) 100%);
+    font-size: 21px;
+    font-weight: 600;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+.desctiptionTitle {
+    font-size: 18px;
+    display: block;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    /* autoprefixer: off */
+}
+
+.descriptionTop {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.review {
+    color: #014E88;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.price {
+    margin-right: 15px;
+    font-size: 21px;
+    font-weight: 600;
+    color: #A3341A;
+    line-height: 142%;
+}
+
+.logo {
+    max-width: 33%;
+}
+
+.logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.rating i {
+    font-size: 21px;
+}
+
+.descriptionBottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .one {
-    height: 200px;
-    width: 200px;
+    height: 308px;
+    width: 300px;
+}
+
+.one .contentTop img {
+    width: 90%;
+    margin-bottom: 8px;
 }
 
 .two {
-    height: 150px;
-    width: 150px;
+    height: 220px;
+    width: 170px;
+}
+
+.two .rank {
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.two .review,
+.two .price,
+.two .rating i {
+    font-size: 16px;
+}
+
+.two .desctiptionTitle {
+    font-size: 14px;
+}
+
+.two .contentTop img {
+    margin-bottom: 2px;
+}
+
+.isRelated.two {
+    height: 190px;
 }
 
 .three {
-    height: 100px;
-    width: 100px;
+    width: 120px;
+    height: 180px;
+}
+
+.isRelated.three {
+    height: 140px;
 }
 
 .three .rank {
-    height: 27px;
-    width: 27px;
+    height: 25px;
+    width: 25px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.three .review,
+.three .price,
+.three .rating i {
+    font-size: 14px;
+}
+
+.three .price {
+    margin-right: 2px;
+}
+
+.three .logo {
+    max-width: 50%;
+}
+
+.three .desctiptionTitle {
+    font-size: 14px;
+}
+
+.three .contentTop img {
+    margin-bottom: 2px;
+}
+
+.many .rank {
+    height: 25px;
+    width: 25px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.many .review,
+.many .price,
+.many .rating i {
+    font-size: 12px;
+}
+
+.many .price {
+    margin-right: 2px;
+}
+
+.many .logo {
+    max-width: 50%;
+}
+
+.many .desctiptionTitle {
+    font-size: 12px;
+}
+
+.many .contentTop img {
+    margin-bottom: 2px;
+}
+
+.carouselItem.many {
+    height: 145px;
+    width: 90px;
+    background: #F8F8F8;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.isRelated.many {
+    height: 115px;
 }
 
 @media(min-width: 500px) {
     .one {
-        height: 300px;
-        width: 300px;
-    }
-    
-    .two {
-        height: 200px;
-        width: 200px;
-    }
-    
-    .three {
-        height: 150px;
-        width: 150px;
+        height: 370px;
+        width: 360px;
     }
 
     .one .rank {
-        height: 50px;
-        width: 50px;
-        font-size: 20px;
-        border-radius: 6px;
+        height: 60px;
+        width: 60px;
+        border-radius: 12px;
+        font-size: 24px;
+    }
+
+    .one .review,
+    .one .price,
+    .one .rating i {
+        font-size: 24px;
+    }
+
+    .one .contentTop img {
+        margin-bottom: 10px;
+    }
+
+    .two {
+        width: 230px;
+        height: 280px;
+    }
+
+    .isRelated.two {
+        height: 240px;
     }
 
     .two .rank {
-        height: 40px;
-        width: 40px;
-        font-size: 20px;
+        height: 45px;
+        width: 45px;
+        font-size: 18px;
+    }
+
+    .two .review,
+    .two .price,
+    .two .rating i {
+        font-size: 18px;
+    }
+
+    .two .desctiptionTitle {
+        font-size: 16px;
+    }
+
+    .two .contentTop img {
+        margin-bottom: 2px;
+    }
+
+    .three {
+        width: 150px;
+        height: 215px;
+    }
+
+    .isRelated.three {
+        height: 172px;
     }
 
     .three .rank {
-        height: 35px;
-        width: 35px;
+        height: 30px;
+        width: 30px;
+        border-radius: 6px;
+        font-size: 16px;
     }
 
-    .many.carouselItem {
-        height: 100px;
-        width: 100px;
-    } 
+    .three .review,
+    .three .price,
+    .three .rating i {
+        font-size: 16px;
+    }
+
+    .three .price {
+        margin-right: 2px;
+    }
+
+    .three .desctiptionTitle {
+        font-size: 16px;
+    }
+
+    .many .rank {
+        height: 30px;
+        width: 30px;
+        border-radius: 6px;
+        font-size: 16px;
+    }
+
+    .many .review,
+    .many .price,
+    .many .rating i {
+        font-size: 14px;
+    }
+
+    .many .price {
+        margin-right: 4px;
+    }
+
+    .many .desctiptionTitle {
+        font-size: 14px;
+    }
+
+    .carouselItem.many {
+        height: 177px;
+        width: 120px;
+        background: #F8F8F8;
+        border-radius: 15px;
+        padding: 10px;
+    }
+
+    .isRelated.many {
+        height: 142px;
+    }
 }
 
 @media(min-width: 650px) {
-    .one {
-        height: 400px;
-        width: 400px;
-    }
-    
     .two {
-        height: 300px;
         width: 300px;
-    }
-    
-    .three {
-        height: 200px;
-        width: 200px;
+        height: 360px;
     }
 
-    .one .rank {
-        height: 65px;
-        width: 65px;
-        font-size: 24px;
-        border-radius: 8px;
+    .isRelated.two {
+        height: 305px;
     }
 
     .two .rank {
@@ -119,21 +334,109 @@
         font-size: 21px;
     }
 
-    .three .rank {
-        height: 40px;
-        width: 40px;
-        border-radius: 6px;
+    .two .review,
+    .two .price,
+    .two .rating i {
+        font-size: 21px;
     }
 
-    .many.carouselItem {
-        height: 140px;
-        width: 140px;
+    .two .desctiptionTitle {
+        font-size: 21px;
+    }
+
+    .two .contentTop img {
+        margin-bottom: 6px;
+    }
+
+    .three {
+        width: 200px;
+        height: 260px;
+    }
+
+    .isRelated.three {
+        height: 215px;
+    }
+
+    .three .rank {
+        height: 35px;
+        width: 35px;
+        border-radius: 7px;
+        font-size: 18px;
+    }
+
+    .three .review,
+    .three .price,
+    .three .rating i {
+        font-size: 18px;
+    }
+
+    .three .price {
+        margin-right: 4px;
+    }
+
+    .three .desctiptionTitle {
+        font-size: 18px;
+    }
+
+    .many .rank {
+        height: 35px;
+        width: 35px;
+        border-radius: 7px;
+        font-size: 18px;
+    }
+
+    .many .review,
+    .many .price,
+    .many .rating i {
+        font-size: 16px;
+    }
+
+    .many .price {
+        margin-right: 6px;
+    }
+
+    .many .desctiptionTitle {
+        font-size: 18px;
+    }
+
+    .carouselItem.many {
+        height: 215px;
+        width: 150px;
+        background: #F8F8F8;
+        padding: 10px;
+    }
+
+    .isRelated.many {
+        height: 170px;
     }
 }
 
 @media(min-width: 950px) {
-    .many.carouselItem {
-        height: 200px;
-        width: 200px;
+    .many .rank {
+        height: 45px;
+        width: 45px;
+        border-radius: 9px;
+        font-size: 21px;
+    }
+
+    .many .review,
+    .many .price,
+    .many .rating i {
+        font-size: 21px;
+    }
+
+    .many .desctiptionTitle {
+        font-size: 18px;
+    }
+
+    .carouselItem.many {
+        height: 290px;
+        width: 220px;
+        background: #F8F8F8;
+        padding: 15px;
+    }
+
+    .isRelated.many {
+        height: 240px;
     }
 }

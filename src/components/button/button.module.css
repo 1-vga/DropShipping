@@ -5,7 +5,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(0deg, rgba(183,26,3,1) 0%, rgba(253,98,76,1) 100%);
+    background: linear-gradient(0deg, rgba(183, 26, 3, 1) 0%, rgba(253, 98, 76, 1) 100%);
     border-radius: 15px;
     cursor: pointer;
 }
@@ -29,7 +29,7 @@
     left: 52%;
 }
 
-.imgWrapper img{
+.imgWrapper img {
     width: 100%;
 }
 
@@ -46,6 +46,6 @@
         width: 80px;
 
         top: 43%;
-        left: 52%; 
+        left: 52%;
     }
 }

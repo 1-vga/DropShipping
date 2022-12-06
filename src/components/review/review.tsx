@@ -15,7 +15,7 @@ const Review: React.FC<Props> = ({ text, bold_index, star_count }) => {
         return makeBold(text!, bold_index) as string
     }, [text, bold_index])
     return (
-        <div className={classNames(styles.review, {[styles.padding]: star_count})}>
+        <div className={classNames(styles.review, { [styles.padding]: star_count })}>
             <p className={styles.text}>
                 <span>
                     {
