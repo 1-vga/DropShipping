@@ -8,7 +8,7 @@ const Footer: React.FC<Props> = (props) => {
     return (
         <footer className={styles.footer}>
             <div className={styles.textTop}>Contact us:</div>
-            <div className={styles.textBottom}>product@titanlabs.co</div>
+            <div className={styles.textBottom}>product@google.com</div>
         </footer>
     );
 };
